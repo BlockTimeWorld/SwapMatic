@@ -38,9 +38,9 @@ Token's icon will be picked up in Trust Wallet repository, just like in Uniswap.
 Shall new token bridges emerge (e.g. BlockTime Bridge in DUST Central - to be announced), these can be also supported.
 
 ## Native Tokens
-Tokens native to Matic Network are supported by default as-is using the frond end or custom links.
+Tokens native to Matic Network are supported by default as-is using the frond end and custom links - read Uniswap v1 docs.
 
-Getting a native to Matic token listed - i.e. a adding it in the drop-down with an icon - requires manual configuration work, and that can be done after a submission and vetting process (to be announced).
+Getting a native to Matic token listed - i.e. a adding in the drop-down with an icon - requires manual configuration, and that can be done after a submission and vetting process (to be announced).
 
 # Development Needs
 For anyone interested in contributing MiniSwap and Matic Network ecosystem, ideas for development:
