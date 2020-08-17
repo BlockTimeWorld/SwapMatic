@@ -56,3 +56,6 @@ Please note that MiniSwap does not have full-time development resources, so anyt
 
 ## Disclaimer
 *MiniSwap, BlockTime Solutions, or DUST Central are **on** but not officially affiliated **with** Matic Network.*
+
+___________________________
+MiniSwap is provided by https://blocktimesolutions.com/ and https://dust-token.com/ and it is a fork of https://uniswap.org/ v1
