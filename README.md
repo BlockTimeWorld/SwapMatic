@@ -5,7 +5,7 @@ MiniSwap implements Uniswap v1 protocol on Matic Mainnet Network. Enjoy fast and
 MiniSwap is 100% decentralized service. Anyone
 - Can create exchanges
 - Add or remove liquidity
-- Enjoy 0.25% pool feels, and
+- Pay and receive 0.3% pool feels, and
 - Leverage existing liquidity pools
 - Develop around the core factory contract
 
