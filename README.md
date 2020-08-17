@@ -20,7 +20,7 @@ MiniSwap is 100% decentralized service. Anyone
 ## Contracts
 The core factory contract is **not** validated in Matic Explorer, because the contract is written in Vyper - not in Solidity - and Matic (Blockscout) explorer does not support Vyper code validation.
 
-However, anyone can compare the bytecode with the bytecode published in Ethereum and see that there ia 100% match - no foul play.
+However, anyone can compare the bytecode with the code published in Ethereum and see that there ia 100% match - no foul play.
 - Ethereum mainnet contract:
 - Matic Network contract:
 
