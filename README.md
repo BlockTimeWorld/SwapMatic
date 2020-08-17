@@ -52,7 +52,7 @@ For anyone interested in contributing MiniSwap and Matic Network ecosystem, idea
 
 A standards-compliant market information feed to exchanges and trackers should be developed. However, most of cyrpto market services support Uniswap already, so for them is it a very small step to use MiniSawap as an information source.
 
-Please note that MiniSwap does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. BlockTome Solutions is committed to develop and keep the service oprational, but any substantial new development requires more than tan idea and request (wink wink: if you think it is a godo idea, find someone to work on it!).
+Please note that MiniSwap does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. Any substantial new development requires more than an idea and request.
 
 ## Disclaimer
 *MiniSwap, BlockTime Solutions, or DUST Central are **on** but not officially affiliated **with** Matic Network.*
