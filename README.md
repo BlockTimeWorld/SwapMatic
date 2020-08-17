@@ -11,7 +11,7 @@ MiniSwap is 100% decentralized service. Anyone
 
 ## Specifications
 - Instead of Ether (ETH), the base currency in MiniSwap is MATIC because it is the 'ETH' in Matic Network
-- The core factory contract was implemented in address 0x...
+- The core factory contract was implemented in address `0x90D882B2789523403ff263D1F93Ead986c38446C`
 - RPC endpoint: https://rpc.matic.today
 - Network ID: 137
 - Explorer: https://explorer.matic.today
@@ -22,7 +22,7 @@ The core factory contract is **not** validated in Matic Explorer, because the co
 
 However, anyone can compare the bytecode with the code published in Ethereum and see that there is a 100% match - no foul play.
 - Ethereum mainnet contract: https://etherscan.io/address/0xc0a47dfe034b400b47bdad5fecda2621de6c4d95#code
-- Matic Network contract: 
+- Matic Network contract: https://explorer.matic.network/address/0x90D882B2789523403ff263D1F93Ead986c38446C/contracts
 
 ## Development
 Web3 libraries and APIs that work on Uniswap v1 will work 100% on MiniSwap by changing the RPC endpoint and network ID (see above).  Read Uniswap v1 docs for details: https://uniswap.org/docs/v1/
@@ -33,9 +33,9 @@ Like in Uniswap, anyone can use standard ERC20 tokens in MiniSwap. Create an exc
 ## Bridged Tokens
 Mainstream tokens for existing Ethereum Mainnet projects with good reputation can be listed. Both Plasma and PoS bridged tokens in Matic Network will be supported.
 
-Token's icon will be picked up in Trust Wallet repository, just like in Uniswap. For that one, a MiniSwap admin must know both mainnet and Matic address of the token to get it listed and configured correctly.
+For that one, a MiniSwap admin must know both mainnet and Matic address of the token to get it listed and configured correctly.
 
-Shall new token bridges emerge (e.g. BlockTime Bridge in DUST Central - to be announced), these can be also supported.
+Shall new token bridges emerge, these can be also supported.
 
 ## Native Tokens
 Tokens native to Matic Network are supported by default as-is using the frond end and custom links - read Uniswap v1 docs.
@@ -50,7 +50,7 @@ For anyone interested in contributing MiniSwap and Matic Network ecosystem, idea
 - Writing and publishing how-to's
 - Replicate the same for Uniswap v2 ("MegaSwap")
 
-A standards-compliant market information feed to exchanges and trackers should be developed. However, most of cyrpto market services support Uniswap v1 already, so for them is it a very small step to use MiniSawap as an information source.
+A standards-compliant market information feed to exchanges and trackers should be developed. However, most of cyrpto market services support Uniswap already, so for them is it a very small step to use MiniSawap as an information source.
 
 Please note that MiniSwap does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. BlockTome Solutions is committed to develop and keep the service oprational, but any substantial new development requires more than tan idea and request (wink wink: if you think it is a godo idea, find someone to work on it!).
 
