@@ -29,7 +29,7 @@ However, anyone can compare the bytecode with the code published in Ethereum and
 ## APIs
 Web3 libraries and APIs that work on Uniswap v1 will work 100% on MiniSwap by changing the RPC endpoint and network ID (see above).  Read Uniswap v1 docs for details: https://uniswap.org/docs/v1/
 
-# Supported Tokens
+# Tokens on MiniSwap
 Like in Uniswap, anyone can use standard ERC20 tokens in MiniSwap. Create an exchange, add liquidity in pools, provide custom links, trade!
 
 ## Bridged Tokens
