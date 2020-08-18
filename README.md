@@ -1,4 +1,4 @@
-# MiniSwap
+# MiniSwap on Matic
 MiniSwap implements Uniswap v1 protocol on Matic Mainnet Network. Enjoy fast and affordable swaps again!
 
 ## Background
@@ -8,6 +8,8 @@ MiniSwap is 100% decentralized service. Anyone
 - Pay and receive 0.3% pool feels, and
 - Leverage existing liquidity pools
 - Develop around the core factory contract
+
+Please note that the full name of service is **MiniSwap on Matic** and not to be confused with other projects with similar sounding name.
 
 ## Specifications
 - Instead of Ether (ETH), the base currency in MiniSwap is MATIC because it is the 'ETH' in Matic Network
@@ -42,7 +44,9 @@ Tokens native to Matic Network are supported by default as-is using the frond en
 
 Getting a native to Matic token listed - i.e. a adding in the drop-down with an icon - requires manual configuration, and that can be done after a submission and vetting process (to be announced).
 
-# Development Needs
+# MISC on MiniSwap
+
+## Development Needs
 For anyone interested in contributing MiniSwap and Matic Network ecosystem, ideas for development:
 - Liquidity Pool Info site
 - Market info API endpoint
@@ -52,10 +56,20 @@ For anyone interested in contributing MiniSwap and Matic Network ecosystem, idea
 
 A standards-compliant market information feed to exchanges and trackers should be developed. However, most of cyrpto market services support Uniswap already, so for them is it a very small step to use MiniSawap as an information source.
 
-Please note that MiniSwap does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. Any substantial new development requires more than an idea and request.
+## MiniSwap Token
+A MiniSwap token **MISP** is available in MiniSwap for a very low Matic price. It does not try to become the next world domination currency, but is rather an opportunity to try out swapping with very small balances. Buy some MISP, swap it back, but please do not empty the whole MISP pool!
+
+Please remember that MISP will be pooled with MATIC, so it has some value and it is not a pure junk-test token.
+
+Any proceedings from MISP go to development and administration of MiniSwap service.
+
+## Contributions
+If you want to contribute MiniSwap financially (server costs, the value of admin's time), feel free to donate anything - your tokens, Matic, ETH - in address `0x207Bb29D5D4BB9C3eDE0747306A1fAD6fD8567E2` in Mainnet or Matic Network. I may send you back some MISP as a thank-you note!
+
+MiniSwap does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. Any substantial new development requires more than an idea and request - in other words, find a skilled developer or team and it gets done. 
 
 ## Disclaimer
-*MiniSwap, BlockTime Solutions, or DUST Central are **on** but not officially affiliated **with** Matic Network.*
+*MiniSwap and BlockTime Solutions are **on** but not officially affiliated **with** Matic Network.*
 
 ___________________________
 
