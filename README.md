@@ -51,7 +51,7 @@ Any proceedings from MISP go to development and administration of MiniSwap servi
 
 ## Listing Your Token in MiniSwap
 For now, use the self-listing feature by pasting your address and creating an exchange and a pool. These are the first steps in any case.
-The process to add your token with logo in the drop-down menu will be created and announced later.
+The process to add your token with a logo in the drop-down menu will be defined and announced later.
 
 # Development
 
