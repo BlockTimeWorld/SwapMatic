@@ -44,7 +44,7 @@ Tokens native to Matic Network are supported by default as-is using the frond en
 
 Getting a native to Matic token listed - i.e. a adding in the drop-down with an icon - requires manual configuration, and that can be done after a submission and vetting process (to be announced).
 
-# MISC on MiniSwap
+# Development
 
 ## Development Needs
 For anyone interested in contributing MiniSwap and Matic Network ecosystem, ideas for development:
@@ -66,7 +66,11 @@ Any proceedings from MISP go to development and administration of MiniSwap servi
 ## Contributions
 If you want to contribute MiniSwap financially (server costs, the value of admin's time), feel free to donate anything - your tokens, Matic, ETH - in address `0x207Bb29D5D4BB9C3eDE0747306A1fAD6fD8567E2` in Mainnet or Matic Network. I may send you back some MISP as a thank-you note!
 
-MiniSwap does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. Any substantial new development requires more than an idea and request - in other words, find a skilled developer or team and it gets done. 
+MiniSwap does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. Any substantial new development requires more than an idea and request - in other words, find a skilled developer or team and it gets done.
+
+## Channels
+Discussions on development will take place in https://discord.gg/sX4rfTk channel on Discord.
+Someone feel free to launch a Telegram server for discussing and reaching out wider general audience. (Link will be added here when we get that started.)
 
 ## Disclaimer
 *MiniSwap and BlockTime Solutions are **on** but not officially affiliated **with** Matic Network.*
