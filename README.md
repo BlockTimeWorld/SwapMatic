@@ -68,7 +68,7 @@ A standards-compliant market information feed to exchanges and trackers should b
 ## Contributions
 If you want to contribute MiniSwap financially (server costs, the value of admin's time), feel free to donate anything - your tokens, Matic, ETH - in address `0x207Bb29D5D4BB9C3eDE0747306A1fAD6fD8567E2` in Mainnet or Matic Network. I may send you back some MISP as a thank-you note!
 
-MiniSwap does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. Any substantial new development requires more than an idea and request - in other words, find a skilled developer or team and it gets done.
+MiniSwap does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. Any substantial new development requires more than an idea and request - in other words, find a skilled developer or team and get it done yourself.
 
 ## Channels
 Discussions on development will take place in https://discord.gg/sX4rfTk channel on Discord.
