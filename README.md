@@ -38,7 +38,7 @@ Mainstream tokens for existing Ethereum Mainnet projects with good reputation ca
 For listing a bridged token, the admin must learn about the project and get both mainnet and Matic address of the token to get it listed and configured correctly. We don't want scam tokens in MiniSwap.
 
 ## Native Tokens
-Tokens native to Matic Network are supported by default as-is using the frond end and custom links - read Uniswap v1 docs.
+Tokens native to Matic Network are supported by default using the front end and custom links - read Uniswap v1 docs.
 
 Getting a native Matic Network token listed - i.e. a adding in the drop-down with an icon - requires manual configuration, and that can be done after a submission and vetting process, just like with bridged tokens.
 
