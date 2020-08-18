@@ -26,7 +26,7 @@ However, anyone can compare the bytecode with the code published in Ethereum and
 - Ethereum mainnet contract: https://etherscan.io/address/0xc0a47dfe034b400b47bdad5fecda2621de6c4d95#code
 - Matic Network contract: https://explorer.matic.network/address/0x90D882B2789523403ff263D1F93Ead986c38446C/contracts
 
-## Development
+## APIs
 Web3 libraries and APIs that work on Uniswap v1 will work 100% on MiniSwap by changing the RPC endpoint and network ID (see above).  Read Uniswap v1 docs for details: https://uniswap.org/docs/v1/
 
 # Supported Tokens
@@ -44,9 +44,16 @@ Tokens native to Matic Network are supported by default as-is using the frond en
 
 Getting a native to Matic token listed - i.e. a adding in the drop-down with an icon - requires manual configuration, and that can be done after a submission and vetting process (to be announced).
 
+## MiniSwap Token
+A MiniSwap token **MISP** is available in MiniSwap for a very low Matic price. It does not try to become the next world domination currency, but is rather an opportunity to try out swapping with very small balances. Buy some MISP, swap it back, but please do not empty the whole MISP pool!
+
+Please remember that MISP will be pooled with MATIC, so it has some value and it is not a pure junk-test token.
+
+Any proceedings from MISP go to development and administration of MiniSwap service.
+
 # Development
 
-## Development Needs
+## Ideas
 For anyone interested in contributing MiniSwap and Matic Network ecosystem, ideas for development:
 - Liquidity Pool Info site
 - Market info API endpoint
@@ -55,13 +62,6 @@ For anyone interested in contributing MiniSwap and Matic Network ecosystem, idea
 - Replicate the same for Uniswap v2 ("MegaSwap")
 
 A standards-compliant market information feed to exchanges and trackers should be developed. However, most of cyrpto market services support Uniswap already, so for them is it a very small step to use MiniSawap as an information source.
-
-## MiniSwap Token
-A MiniSwap token **MISP** is available in MiniSwap for a very low Matic price. It does not try to become the next world domination currency, but is rather an opportunity to try out swapping with very small balances. Buy some MISP, swap it back, but please do not empty the whole MISP pool!
-
-Please remember that MISP will be pooled with MATIC, so it has some value and it is not a pure junk-test token.
-
-Any proceedings from MISP go to development and administration of MiniSwap service.
 
 ## Contributions
 If you want to contribute MiniSwap financially (server costs, the value of admin's time), feel free to donate anything - your tokens, Matic, ETH - in address `0x207Bb29D5D4BB9C3eDE0747306A1fAD6fD8567E2` in Mainnet or Matic Network. I may send you back some MISP as a thank-you note!
