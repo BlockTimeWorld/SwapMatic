@@ -12,9 +12,9 @@ MiniSwap is 100% decentralized service. Anyone
 ## Specifications
 - Instead of Ether (ETH), the base currency in MiniSwap is MATIC because it is the 'ETH' in Matic Network
 - The core factory contract was implemented in address `0x90D882B2789523403ff263D1F93Ead986c38446C`
-- RPC endpoint: https://rpc.matic.today
+- RPC endpoint: https://rpc-mainnet.matic.network
 - Network ID: 137
-- Explorer: https://explorer.matic.today
+- Explorer: https://explorer.matic.network
 - Supports injected web3 only; MetaMask is tested, maybe others work, too
 
 ## Contracts
