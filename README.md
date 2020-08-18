@@ -35,14 +35,12 @@ Like in Uniswap, anyone can use standard ERC20 tokens in MiniSwap. Create an exc
 ## Bridged Tokens
 Mainstream tokens for existing Ethereum Mainnet projects with good reputation can be listed. Both Plasma and PoS bridged tokens in Matic Network will be supported.
 
-For that one, a MiniSwap admin must know both mainnet and Matic address of the token to get it listed and configured correctly.
-
-Shall new token bridges emerge, these can be also supported.
+For listing a bridged token, the admin must learn about the project and get both mainnet and Matic address of the token to get it listed and configured correctly. We don't want scam tokens in MiniSwap.
 
 ## Native Tokens
 Tokens native to Matic Network are supported by default as-is using the frond end and custom links - read Uniswap v1 docs.
 
-Getting a native to Matic token listed - i.e. a adding in the drop-down with an icon - requires manual configuration, and that can be done after a submission and vetting process (to be announced).
+Getting a native Matic Network token listed - i.e. a adding in the drop-down with an icon - requires manual configuration, and that can be done after a submission and vetting process, just like with bridged tokens.
 
 ## MiniSwap Token
 A MiniSwap token **MISP** is available in MiniSwap for a very low Matic price. It does not try to become the next world domination currency, but is rather an opportunity to try out swapping with very small balances. Buy some MISP, swap it back, but please do not empty the whole MISP pool!
@@ -50,6 +48,10 @@ A MiniSwap token **MISP** is available in MiniSwap for a very low Matic price. I
 Please remember that MISP will be pooled with MATIC, so it has some value and it is not a pure junk-test token.
 
 Any proceedings from MISP go to development and administration of MiniSwap service.
+
+## Listing Your Token in MiniSwap
+For now, use the self-listing feature by pasting your address and creating an exchange and a pool. These are the first steps in any case.
+The process to add your token with logo in the drop-down menu will be created and announced later.
 
 # Development
 
