@@ -73,7 +73,7 @@ Discussions on development will take place in https://discord.gg/sX4rfTk channel
 Someone feel free to launch a Telegram server for discussing and reaching out wider general audience. (Link will be added here when we get that started.)
 
 ## Disclaimer
-*MiniSwap and BlockTime Solutions are **on** but not officially affiliated **with** Matic Network.*
+*MiniSwap and BlockTime Solutions are **on** Matic but are not officially affiliated **with** Matic Network.*
 
 ___________________________
 
