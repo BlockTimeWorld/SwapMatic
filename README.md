@@ -87,8 +87,7 @@ MiniSwap does not have full-time development resources, so anything and everythi
 
 ## Channels
 **Discord:** Discussions on development will take place in https://discord.gg/sX4rfTk channel on Discord.
-
-**Telegram:** Someone feel free to launch a Telegram server for reaching out the general audience. (Link will be added here when someone gets that started.)
+**Telegram:** Someone feel free to launch a Telegram server for reaching out the general audience.
 
 ## Disclaimer
 *MiniSwap and BlockTime Solutions are **on** Matic but are not officially affiliated **with** Matic Network.*
