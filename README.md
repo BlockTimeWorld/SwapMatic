@@ -36,11 +36,10 @@ Examples:
 
 ## Contracts
 The core factory contract was implemented in address `0x90D882B2789523403ff263D1F93Ead986c38446C`
-
-MiniSwap factory contract: https://explorer.matic.network/address/0x90D882B2789523403ff263D1F93Ead986c38446C/contracts
+> MiniSwap factory contract: https://explorer.matic.network/address/0x90D882B2789523403ff263D1F93Ead986c38446C/contracts
 
 The factory contract is **not** validated in Matic Explorer, because the contract is written in Vyper - not in Solidity - and Matic explorer (Blockscout) does not support Vyper code validation. However, anyone can compare the bytecode with the code published in Ethereum and see that there is a 100% match - no foul play.
-- Ethereum mainnet contract: https://etherscan.io/address/0xc0a47dfe034b400b47bdad5fecda2621de6c4d95#code
+> Ethereum mainnet contract: https://etherscan.io/address/0xc0a47dfe034b400b47bdad5fecda2621de6c4d95#code
 
 ## APIs
 Web3 libraries and APIs that work on Uniswap v1 will work 100% on MiniSwap by changing the RPC endpoint and network ID (see above).  Read Uniswap v1 docs for details: https://uniswap.org/docs/v1/
