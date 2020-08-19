@@ -86,8 +86,9 @@ If you want to contribute MiniSwap financially (server costs, the value of admin
 MiniSwap does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. Any substantial new development requires more than an idea and request - in other words, find a skilled developer or team and get it done yourself.
 
 ## Channels
-Discussions on development will take place in https://discord.gg/sX4rfTk channel on Discord.
-Someone feel free to launch a Telegram server for reaching out the general audience. (Link will be added here when someone gets that started.)
+**Discord:** Discussions on development will take place in https://discord.gg/sX4rfTk channel on Discord.
+
+**Telegram:** Someone feel free to launch a Telegram server for reaching out the general audience. (Link will be added here when someone gets that started.)
 
 ## Disclaimer
 *MiniSwap and BlockTime Solutions are **on** Matic but are not officially affiliated **with** Matic Network.*
