@@ -89,9 +89,6 @@ MiniSwap does not have full-time development resources, so anything and everythi
 - **Discord:** Discussions on development will take place in https://discord.gg/sX4rfTk channel on Discord.
 - **Telegram:** Someone feel free to launch a Telegram server for reaching out the general audience. 
 
-## Disclaimer
-*MiniSwap and BlockTime Solutions are **on** Matic but are not officially affiliated **with** Matic Network.*
-
 ___________________________
 
 *MiniSwap is provided by [BlockTime Solutions](https://blocktimesolutions.com) and it is a fork of [Uniswap v1](https://uniswap.org/docs/v1/). The service is **not officially affiliated** with [Matic Network](https://matic.network/)*
