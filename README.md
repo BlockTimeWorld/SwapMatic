@@ -27,7 +27,7 @@ Examples:
 
 **Step 2: The Site**
 - The service can be found in https://miniswap.app
-- The backup address is https://miniswap.blocktimesolutions.com (same service)
+- The backup address is https://miniswap.blocktimesolutions.com
 
 **Note This**
 - MiniSwap supports injected web3 only at this moment
@@ -86,12 +86,12 @@ If you want to contribute MiniSwap financially (server costs, the value of admin
 MiniSwap does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. Any substantial new development requires more than an idea and request - in other words, find a skilled developer or team and get it done yourself.
 
 ## Channels
-**Discord:** Discussions on development will take place in https://discord.gg/sX4rfTk channel on Discord.
-**Telegram:** Someone feel free to launch a Telegram server for reaching out the general audience.
+- **Discord:** Discussions on development will take place in https://discord.gg/sX4rfTk channel on Discord.
+- **Telegram:** Someone feel free to launch a Telegram server for reaching out the general audience. 
 
 ## Disclaimer
 *MiniSwap and BlockTime Solutions are **on** Matic but are not officially affiliated **with** Matic Network.*
 
 ___________________________
 
-MiniSwap is provided by https://blocktimesolutions.com/ and it is a fork of https://uniswap.org/docs/v1/
+*MiniSwap is provided by [BlockTime Solutions](https://blocktimesolutions.com) and it is a fork of [Uniswap v1](https://uniswap.org/docs/v1/). The service is **not officially affiliated** with [Matic Network](https://matic.network/)*
