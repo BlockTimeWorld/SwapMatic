@@ -17,7 +17,8 @@ Please note that the full name of service is **MiniSwap on Matic** and not to be
 - RPC endpoint: https://rpc-mainnet.matic.network
 - Network ID: 137
 - Explorer: https://explorer.matic.network
-- Supports injected web3 only; MetaMask is tested, maybe others work, too
+- Supports injected web3 only
+- MetaMask, Saturn, and Nifty wallets are tested and working fine
 
 ## Contracts
 The core factory contract is **not** validated in Matic Explorer, because the contract is written in Vyper - not in Solidity - and Matic (Blockscout) explorer does not support Vyper code validation.
