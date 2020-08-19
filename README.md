@@ -21,14 +21,16 @@ Please note that the full name of service is **MiniSwap on Matic** and not to be
 - Symbol (optional): **MATIC**
 - Block Explorer URL (optional): **https://explorer.matic.network** -> **Save**
 
-See also: https://docs.matic.network/docs/develop/network-details/network#matic-mainnet
+Examples:
+- MetaMask: https://github.com/BlockTimeWorld/MiniSwap/blob/master/MetaMask%20for%20Matic.PNG
+- See also: https://docs.matic.network/docs/develop/network-details/network#matic-mainnet
 
 **Step 2: The Site**
 - The service can be found in https://miniswap.app
 - The backup address is https://miniswap.blocktimesolutions.com (same service)
 
 **Note This**
-- MiniSwap supports injected web3 only, for now
+- MiniSwap supports injected web3 only at this moment
 - MetaMask, Saturn, and Nifty wallets are tested and working fine
 - Instead of Ether (ETH), the base currency in MiniSwap is MATIC because it is the 'ETH' in Matic Network
 
