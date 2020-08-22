@@ -26,8 +26,8 @@ Examples:
 - See also: https://docs.matic.network/docs/develop/network-details/network#matic-mainnet
 
 **Step 2: The Site**
-- The service can be found in https://miniswap.app
-- The backup address is https://miniswap.blocktimesolutions.com
+- The service can be found in https://miniswap.app - please ignore and bypass the nasty phising warning; we are working on it!
+- The backup address is https://miniswap.blocktimesolutions.com - the same site, another address, no warnings
 
 **Note This**
 - MiniSwap supports injected web3 only at this moment
