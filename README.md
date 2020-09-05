@@ -83,7 +83,7 @@ If you want to contribute SwapMatic financially (server costs, the value of admi
 SwapMatic does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. Any substantial new development requires more than an idea and request - in other words, find a skilled developer or team and get it done yourself.
 
 ## Channels
-- **Discord:** Discussions on development will take place in https://discord.gg/sX4rfTk channel on Discord.
+- **Discord:** Discussions on development will take place in https://discord.gg/k7NB4wc channel on Discord.
 - **Telegram:** Someone feel free to launch a Telegram server for reaching out the general audience. 
 
 ___________________________
