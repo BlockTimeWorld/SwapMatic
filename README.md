@@ -66,6 +66,12 @@ Any proceedings from MISP go to development and administration of MiniSwap servi
 For now, use the self-listing feature by pasting your address and creating an exchange and a pool. These are the first steps in any case.
 The process to add your token with a logo in the drop-down menu will be defined and announced later.
 
+## Custom Linking
+- https://swapmatic.io/swap?outputCurrency=0x769dcdB2D4E5c4CE0e108d039d0765AEA09eDBab
+- https://swapmatic.io/swap?inputCurrency=0x769dcdB2D4E5c4CE0e108d039d0765AEA09eDBab
+- https://swapmatic.io/swap?inputCurrency=0x66d575db1BbA30B6364C04A484E14Bc8DfEE2bbb?outputCurrency=0x820fe232433248732749C039EBcA0d43588Ad06d
+- https://swapmatic.io/send?recipient=0x207Bb29D5D4BB9C3eDE0747306A1fAD6fD8567E2
+
 # Development
 
 ## Ideas
@@ -78,9 +84,9 @@ For anyone interested in contributing MiniSwap and Matic Network ecosystem, idea
 A standards-compliant market information feed to exchanges and trackers should be developed. However, most of cyrpto market services support Uniswap already, so for them is it a very small step to use SwapMatic as an information source.
 
 ## Contributions
-If you want to contribute SwapMatic financially (server costs, the value of admin's time), feel free to donate anything - your tokens, Matic, ETH - in address `0x207Bb29D5D4BB9C3eDE0747306A1fAD6fD8567E2` in Mainnet or Matic Network. I may send you back some MISP as a thank-you note!
+If you want to contribute SwapMatic financially (server costs, the value of admin's time), feel free to donate anything - your tokens, Matic, ETH - in address `0x207Bb29D5D4BB9C3eDE0747306A1fAD6fD8567E2` in Mainnet or Matic Network.
 
-SwapMatic does not have full-time development resources, so anything and everything that will be done or published is by volunteer basis. Any substantial new development requires more than an idea and request - in other words, find a skilled developer or team and get it done yourself.
+SwapMatic does not have full-time development resources, so anything and everything is by volunteer basis. Any substantial new development requires more than an idea and request - in other words, find a skilled developer or team and get it done yourself.
 
 ## Channels
 - **Discord:** Discussions on development will take place in https://discord.gg/k7NB4wc channel on Discord.
