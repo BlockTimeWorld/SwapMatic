@@ -78,7 +78,7 @@ The process to add your token with a logo in the drop-down menu will be defined 
 - Deployed in Mumbai test network and available in https://dev.swapmatic.io
 - Use RPC	https://rpc-mumbai.matic.today and network ID 80001
 - Mumbai Factory contract address: 0xd02b2F48dc3e8C0706777CE35043670C6e9DC718
-- Buy test tokens MERC, RAIN, and TEST from the UI using Mumbai Test MATIC
+- Buy test tokens MERC, RAIN, and TEST from the UI using Mumbai Test MATIC: https://faucet.matic.network/
 - More about Mumbai here: https://docs.matic.network/docs/develop/network-details/network/ => Mumbai-Testnet
 - Make sure to read the docs https://uniswap.org/docs/v1/
 
