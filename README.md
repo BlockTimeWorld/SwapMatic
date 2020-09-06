@@ -75,11 +75,11 @@ The process to add your token with a logo in the drop-down menu will be defined 
 # Development
 
 ## Mumbai Development Build and UI
-- Deployed in Mumbai test metwork and available in https://dev.swapmatic.io
+- Deployed in Mumbai test network and available in https://dev.swapmatic.io
 - Use RPC	https://rpc-mumbai.matic.today and network ID 80001
-- Explorer https://mumbai-explorer.matic.today
 - Mumbai Factory contract address: 0xd02b2F48dc3e8C0706777CE35043670C6e9DC718
 - Buy test tokens MERC, RAIN, and TEST from the UI using Mumbai Test MATIC
+- More about Mumbai here: https://docs.matic.network/docs/develop/network-details/network/ => Mumbai-Testnet
 
 Exchanges deployed for test tokens:
 - Exchange ID 1: {'name': 'RAIN Token', 'symbol': 'RAIN', 'decimals': '8', 'totalSupply': '25000000000000000', 'token_address': '0x5aEc90591F32F1098c8eCe7f21C718C3732019b5', 'exchange_address': '0x422aEfbfEF0e3602Dde6a328A6d58360b0803114', 'exchange_id': 1}
