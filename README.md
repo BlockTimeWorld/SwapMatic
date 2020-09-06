@@ -74,6 +74,13 @@ The process to add your token with a logo in the drop-down menu will be defined 
 
 # Development
 
+## Mumbai Development Build and UI
+- Deployed in Mumbai test metwork: https://dev.swapmatic.io
+- Use RPC	https://rpc-mumbai.matic.today and netwrok ID 80001
+- Explorer https://mumbai-explorer.matic.today
+- Mumbai Factory contract address: 0xd02b2F48dc3e8C0706777CE35043670C6e9DC718
+- Buy test tokens MERC, RAIN, and TEST from the UI using Mumbai Test MATIC
+
 ## Ideas
 For anyone interested in contributing MiniSwap and Matic Network ecosystem, ideas for development:
 - Liquidity Pool Info site
