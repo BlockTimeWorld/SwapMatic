@@ -45,10 +45,11 @@ Web3 libraries and APIs that work on Uniswap v1 will work 100% on SwapMatic by c
 # Tokens on SwapMatic
 Like in Uniswap, anyone can use standard ERC20 tokens in SwapMatic. Create an exchange, add liquidity in pools, provide custom links, trade!
 
-## Bridged Tokens
-Mainstream tokens for existing Ethereum Mainnet projects with good reputation can be listed. PoS bridged tokens in Matic Network will be supported.
+## PoS Mapped Tokens
+All PoS-bridged Mainnet tokens with good reputation can and will be listed. Only PoS-bridged tokens will be supported. Plasma-bridged tokens will **not** be supported to avoid confusion between Plasma/PoS WETH and DAI.
+> Mapped tokens: https://docs.matic.network/docs/develop/network-details/mapped-tokens/
 
-For listing a bridged token, the admin must learn about the project and get both mainnet and Matic address of the token to get it listed and configured correctly. We don't want scam tokens in SwapMatic.
+For listing a bridged token, the admin must learn about the project and get both mainnet and Matic address of the token to get it listed and configured correctly.
 
 ## Native Tokens
 Tokens native to Matic Network are supported by default using the front end and custom links - read Uniswap v1 docs.
