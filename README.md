@@ -109,4 +109,4 @@ SwapMatic does not have full-time development resources, so anything and everyth
 
 ___________________________
 
-*MiniSwap is provided by [BlockTime Solutions](https://blocktimesolutions.com) and it is a fork of [Uniswap v1](https://uniswap.org/docs/v1/). The service is **not officially affiliated** with [Matic Network](https://matic.network/)*
+*SwapMatic is provided by [BlockTime Solutions](https://blocktimesolutions.com) and it is a fork of [Uniswap v1](https://uniswap.org/docs/v1/). The service is **not officially affiliated** with [Matic Network](https://matic.network/)*
