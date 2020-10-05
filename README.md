@@ -42,6 +42,8 @@ The factory contract is **not** validated in Matic Explorer, because the contrac
 ## APIs
 Web3 libraries and APIs that work on Uniswap v1 will work 100% on SwapMatic by changing the RPC endpoint and network ID (see above).  Read Uniswap v1 docs for details: https://uniswap.org/docs/v1/
 
+Icons for tokens listed in SwapMatic can be found here: https://io.blocktime.solutions/images/icons/
+
 # Tokens on SwapMatic
 Like in Uniswap, anyone can use standard ERC20 tokens in SwapMatic. Create an exchange, add liquidity in pools, provide custom links, trade!
 
