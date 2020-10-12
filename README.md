@@ -112,6 +112,11 @@ SwapMatic does not have full-time development resources, so anything and everyth
 - **Discord:** Discussions on development will take place in https://discord.gg/k7NB4wc channel on Discord.
 - **Telegram:** Someone feel free to launch a Telegram server for reaching out the general audience. 
 
+## Web Analytics
+- **Audience:** https://datastudio.google.com/reporting/36fa453a-de94-4136-8b9e-11925247109c/page/jFwjB
+- **Aquisition:** https://datastudio.google.com/reporting/b400beae-1583-4bc5-9e6e-7bd700f719fa/page/6JwjB
+- **Behaviors:** https://datastudio.google.com/reporting/72d96dc3-b663-4bd8-88e4-a64aac431e51/page/aOwjB
+
 ___________________________
 
 *SwapMatic is provided by [BlockTime Solutions](https://blocktimesolutions.com) and it is a fork of [Uniswap v1](https://uniswap.org/docs/v1/). The service is **not officially affiliated** with [Matic Network](https://matic.network/)*
