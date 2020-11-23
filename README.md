@@ -70,9 +70,10 @@ SwapMatic supports Wrapped Matic (c.f. WETH in Ethereum) deployment in address `
 - WMATIC dApp: https://oneclickdapp.com/collect-orient/
 - Swap WMATIC: https://swapmatic.io/swap?outputCurrency=0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270
 
-## Listing Your Token in MiniSwap
-For now, use the self-listing feature by pasting your address and creating an exchange and a pool. These are the first steps in any case.
-The process to add your token with a logo in the drop-down menu will be defined and announced later.
+## Listing Your Token in SwapMatic
+First, use the self-listing feature by pasting your address and creating an exchange and a pool. These are the first steps in any case.
+To list your token with a logo in the drop-down menu item can be requested using this form:
+- https://docs.google.com/forms/d/e/1FAIpQLSdP-HxzvmFoSzbAM3VVcZIPNYskcIdAlBNZNy6ZTWdxnF12Xg/viewform
 
 ## Custom Linking
 - https://swapmatic.io/swap?outputCurrency=0x769dcdB2D4E5c4CE0e108d039d0765AEA09eDBab
