@@ -66,8 +66,9 @@ Please remember that JUNK is pooled with MATIC, so it has *some* value and it is
 
 ## Wrapped Matic WMATIC
 SwapMatic supports Wrapped Matic (c.f. WETH in Ethereum) deployment in address `0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270`.
-- Explorer: https://explorer.matic.network/address/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/read_contract.
+- Explorer: https://explorer-mainnet.maticvigil.com/address/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/read-contract
 - WMATIC dApp: https://oneclickdapp.com/collect-orient/
+- Swap WMATIC: https://swapmatic.io/swap?outputCurrency=0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270
 
 ## Listing Your Token in MiniSwap
 For now, use the self-listing feature by pasting your address and creating an exchange and a pool. These are the first steps in any case.
