@@ -8,7 +8,7 @@ SwapMatic is 100% decentralized service. Anyone
 - Receive 0.3% pool rewards
 - Leverage existing liquidity pools
 - Develop around the core factory contract
-- See active markets and prices here: https://blocktimeworld.com/
+- See active markets and prices here: https://blocktimeworld.com/swapmatic-markets/
 
 ## Setup
 
