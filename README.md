@@ -1,5 +1,5 @@
 # SwapMatic on Matic Network
-SwapMatic implements Uniswap v1 protocol on Matic Mainnet Network. Enjoy fast and affordable swaps in https://swapmatic.io!
+SwapMatic implements Uniswap v1 protocol on Matic Mainnet Network. Enjoy fast and affordable swaps in https://swapmatic.io.
 
 ## Background
 SwapMatic is 100% decentralized service. Anyone
@@ -9,6 +9,7 @@ SwapMatic is 100% decentralized service. Anyone
 - Leverage existing liquidity pools
 - Develop around the core factory contract
 - See active markets and prices here: https://blocktimeworld.com/swapmatic-markets/
+- Website: https://web.swapmatic.io/
 
 ## Setup
 
