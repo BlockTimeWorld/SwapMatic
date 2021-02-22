@@ -61,14 +61,12 @@ Getting a native Matic Network token listed - i.e. a adding in the drop-down wit
 ## SwapMatic Token
 A small amount of SwapMatic Token **SWAM** is available in SwapMatic. SWAM will be distributed to liquidity providers and stakers - to be announced. A development-time SwapMatic-MiniSwap token **MISP** can be swapped 1:1 to **SWAM**. More about SWAM here: https://github.com/BlockTimeWorld/SWAM-Token
 
-A "test" token **JUNK** is available in SwapMatic for a very low Matic price. It does not try to become the next world domination currency! It is an opportunity to try out swapping using very small balances. Buy some JUNK, swap it back or add to the pool, but please do not empty the whole garbage can for yourself.
-
-Please remember that JUNK is pooled with MATIC, so it has *some* value and it is not a pure junk-testnet token.
+## JUNK Token
+A "test" token **JUNK** is available in SwapMatic for a very low Matic price.  JUNK is pooled with MATIC, so it has *some* value and it is not a pure junk-testnet token. It does not try to become the next world domination currency! It is an opportunity to try out swapping using very small balances. Buy some JUNK, swap it back or add to the pool, but please do not empty the whole garbage can for yourself.
 
 ## Wrapped Matic WMATIC
 SwapMatic supports Wrapped Matic (c.f. WETH in Ethereum) deployment in address `0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270`.
 - Explorer: https://explorer-mainnet.maticvigil.com/address/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/read-contract
-- WMATIC dApp: https://oneclickdapp.com/collect-orient/
 - Swap WMATIC: https://swapmatic.io/swap?outputCurrency=0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270
 
 ## Listing Your Token in SwapMatic
