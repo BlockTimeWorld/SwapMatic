@@ -75,9 +75,9 @@ To list your token with a logo in the drop-down menu item can be requested using
 - https://docs.google.com/forms/d/e/1FAIpQLSdP-HxzvmFoSzbAM3VVcZIPNYskcIdAlBNZNy6ZTWdxnF12Xg/viewform
 
 ## Custom Linking
-- https://swapmatic.io/swap?outputCurrency=0x769dcdB2D4E5c4CE0e108d039d0765AEA09eDBab
-- https://swapmatic.io/swap?inputCurrency=0x769dcdB2D4E5c4CE0e108d039d0765AEA09eDBab
-- https://swapmatic.io/swap?inputCurrency=0x66d575db1BbA30B6364C04A484E14Bc8DfEE2bbb?outputCurrency=0x820fe232433248732749C039EBcA0d43588Ad06d
+- https://swapmatic.io/swap?outputCurrency=0x368306eb52c8313fd398418c8220ddd560940e68
+- https://swapmatic.io/swap?inputCurrency=0x368306eb52c8313fd398418c8220ddd560940e68
+- https://swapmatic.io/swap?inputCurrency=0x66d575db1BbA30B6364C04A484E14Bc8DfEE2bbb?outputCurrency=0x368306eb52c8313fd398418c8220ddd560940e68
 - https://swapmatic.io/send?recipient=0x207Bb29D5D4BB9C3eDE0747306A1fAD6fD8567E2
 
 # Development
