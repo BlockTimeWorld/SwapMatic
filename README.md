@@ -16,10 +16,11 @@ SwapMatic is 100% decentralized service. Anyone
 **Step 1: Configure MetaMask**
 - **Expand View** (optional) -> **Settings** -> **Networks** -> **Add Network**
 - Network Name: **Matic**
-- New RPC URL: **https://rpc-mainnet.matic.network**
+- New RPC URL: **https://rpc-mainnet.maticvigil.com/**
 - ChainID (optional): **137**
 - Symbol (optional): **MATIC**
-- Block Explorer URL (optional): **https://explorer.matic.network** -> **Save**
+- Block Explorer URL (optional): **https://explorer-mainnet.maticvigil.com/** -> **Save**
+- More info here: **https://docs.matic.network/docs/develop/network-details/network/**
 
 Examples:
 - MetaMask: https://github.com/BlockTimeWorld/MiniSwap/blob/master/MetaMask%20for%20Matic.PNG
