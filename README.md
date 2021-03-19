@@ -28,7 +28,6 @@ Examples:
 
 **Step 2: The Site**
 - The service can be found in https://swapmatic.io
-- The backup address is https://miniswap.blocktimesolutions.com - the same site, another address
 
 **Note This**
 - SwapMatic supports injected web3 only at this moment
