@@ -51,7 +51,7 @@ Like in Uniswap, anyone can use standard ERC20 tokens in SwapMatic. Create an ex
 
 ## PoS-Mapped Tokens
 All PoS-mapped Mainnet tokens with good reputation can and will be listed. Only PoS-mapped tokens will be supported. Plasma-mapped tokens will **not** be supported to avoid confusion between Plasma/PoS WETH and DAI.
-> Mapped tokens: https://docs.matic.network/docs/develop/network-details/mapped-tokens/
+> Token mapper: https://mapper.matic.today/
 
 ## Native Tokens
 Tokens native to Matic Network are supported by default using the front end and custom links - read Uniswap v1 docs.
