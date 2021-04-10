@@ -5,7 +5,7 @@ SwapMatic implements Uniswap v1 protocol on Matic Mainnet Network. Enjoy fast an
 SwapMatic is 100% decentralized service. Anyone
 - Can create exchanges
 - Add or remove liquidity
-- Receive 0.3% pool rewards
+- Receive 0.3% pool rewards (= the exchange fee)
 - Leverage existing liquidity pools
 - Develop around the core factory contract
 - See active markets and prices here: https://blocktimeworld.com/swapmatic-markets/
