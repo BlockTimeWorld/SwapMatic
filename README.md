@@ -59,7 +59,7 @@ Tokens native to Matic Network are supported by default using the front end and 
 Getting a native Matic Network token listed - i.e. a adding in the drop-down with an icon - requires manual configuration, and that can be done after a submission and vetting process, just like with bridged tokens.
 
 ## SwapMatic Token
-A small amount of SwapMatic Token **SWAM** is available in SwapMatic. SWAM will be distributed to liquidity providers and stakers - to be announced. A development-time SwapMatic-MiniSwap token **MISP** can be swapped 1:1 to **SWAM**. More about SWAM here: https://github.com/BlockTimeWorld/SWAM-Token
+A small amount of SwapMatic Token **SWAM** is available in SwapMatic. SWAM will be distributed to liquidity providers and stakers - to be announced. More about SWAM here: https://github.com/BlockTimeWorld/SWAM-Token
 
 ## JUNK Token
 A "test" token **JUNK** is available in SwapMatic for a very low Matic price.  JUNK is pooled with MATIC, so it has *some* value and it is not a pure junk-testnet token. It does not try to become the next world domination currency! It is an opportunity to try out swapping using very small balances. Buy some JUNK, swap it back or add to the pool, but please do not empty the whole garbage can for yourself.
