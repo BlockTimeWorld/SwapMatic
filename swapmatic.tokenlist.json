@@ -958,7 +958,7 @@
 			"logoURI":"https://etherscan.io/token/images/zuzprotocol_32.png"
 		},
 		{
-			"name":"beefy.finance",
+			"name":"Beefy Finance",
 			"address":"0xFbdd194376de19a88118e84E279b977f165d01b8",
 			"symbol":"BIFI",
 			"decimals":18,
@@ -966,9 +966,9 @@
 			"logoURI":"https://raw.githubusercontent.com/beefyfinance/beefy-app/prod/src/images/single-assets/BIFI.png"
 		},
 		{
-			"name":"decentral.games",
+			"name":"Decentral Games",
 			"address":"0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
-			"symbol":"$DG",
+			"symbol":"DG",
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/dg.jpg"
