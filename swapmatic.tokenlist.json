@@ -1,10 +1,10 @@
 {
 	"name":"SwapMatic Token List",
-	"timestamp":"2021-06-01T00:00:00.000+00:00",
+	"timestamp":"2021-06-04T00:00:00.000+00:00",
 	"version":{
 		"major":1,
 		"minor":0,
-		"patch":1
+		"patch":2
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
 	"keywords":[
@@ -22,11 +22,11 @@
 			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
 		},
 		{
-			"name":"1Million Token",
 			"address":"0x2052344CeAce7f140da3E819c7729fEF72F97851",
+			"chainId":137,
+			"name":"1Million Token",
 			"symbol":"1MT",
 			"decimals":7,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x2052344CeAce7f140da3E819c7729fEF72F97851.png"
 		},
 		{
@@ -166,11 +166,11 @@
 			"logoURI":"https://etherscan.io/token/images/indexed-cc10_32.png"
 		},
 		{
-			"name":"Cube Token",
 			"address":"0x9456000C7111a4308e17E912933782aEA1e29a49",
+			"chainId":137,
+			"name":"Cube Token",
 			"symbol":"CUBE",
 			"decimals":18,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x9456000C7111a4308e17E912933782aEA1e29a49.png"
 		},
 		{
@@ -254,11 +254,11 @@
 			"logoURI":"https://pbs.twimg.com/profile_images/1318783238291292160/R4DxXdRA_400x400.jpg"
 		},
 		{
-			"name":"Distant Universe Stardust Token",
 			"address":"0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D",
+			"chainId":137,
+			"name":"Distant Universe Stardust Token",
 			"symbol":"DUST",
 			"decimals":8,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D.png"
 		},
 		{
@@ -334,11 +334,11 @@
 			"logoURI":"https://s2.coinmarketcap.com/static/img/coins/64x64/9651.png"
 		},
 		{
-			"name":"FireBird DAO",
 			"address":"0x422E0Cba8e57Acc799fC14DAdf2b72DfbA281c5F",
+			"chainId":137,
+			"name":"FireBird DAO",
 			"symbol":"FBIRD",
 			"decimals":18,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x422E0Cba8e57Acc799fC14DAdf2b72DfbA281c5F.png"
 		},
 		{
@@ -430,27 +430,27 @@
 			"logoURI":"https://assets.coingecko.com/coins/images/7697/small/N7aEdYrY_400x400.png?1561587437"
 		},
 		{
-			"name":"Invader Finance",
 			"address":"0xb51b25eA2319E15Aeb2C38C03E83F6e92A9Aeae3",
+			"chainId":137,
+			"name":"Invader Finance",
 			"symbol":"ALN",
 			"decimals":18,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xb51b25eA2319E15Aeb2C38C03E83F6e92A9Aeae3.png"
 		},
 		{
-			"name":"Junk Token",
 			"address":"0x2bc8dE98D85dE0A00E29DCB5F90c9C15F7A72892",
+			"chainId":137,
+			"name":"Junk Token",
 			"symbol":"JUNK",
 			"decimals":18,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x2bc8dE98D85dE0A00E29DCB5F90c9C15F7A72892.png"
 		},
 		{
-			"name":"KIWI PoW Token",
 			"address":"0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f",
+			"chainId":137,
+			"name":"KIWI PoW Token",
 			"symbol":"KIWI",
 			"decimals":8,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f.png"
 		},
 		{
@@ -462,11 +462,11 @@
 			"logoURI":"https://i.imgur.com/REyP9yh.jpg"
 		},
 		{
-			"name":"LimeJuice",
 			"address":"0x28E96FFe75CdCc97044585b866BD02bD79C12dc0",
+			"chainId":137,
+			"name":"LimeJuice",
 			"symbol":"JUICE",
 			"decimals":6,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x28E96FFe75CdCc97044585b866BD02bD79C12dc0.png"
 		},
 		{
@@ -574,11 +574,11 @@
 			"logoURI":"https://assets.coingecko.com/coins/images/11102/small/rtk-logo.png"
 		},
 		{
-			"name":"Matix Coin",
 			"address":"0x66d575db1BbA30B6364C04A484E14Bc8DfEE2bbb",
+			"chainId":137,
+			"name":"Matix Coin",
 			"symbol":"MATIX",
 			"decimals":18,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x66d575db1BbA30B6364C04A484E14Bc8DfEE2bbb.png"
 		},
 		{
@@ -598,6 +598,14 @@
 			"logoURI":"https://etherscan.io/token/images/cometh_32.png"
 		},
 		{
+			"chainId":137,
+			"address":"0xba47320eF6B1039F19F3C4096F0f3B3e8Eb8d1F8",
+			"name":"NEBULA",
+			"symbol":"NEBULA",
+			"decimals":18,
+			"logoURI":"https://raw.githubusercontent.com/Palette-Finance/images/main/nebula.png"
+		},
+		{
 			"name":"NFT Platform Index",
 			"address":"0xf7d9e281c5Cb4C6796284C5b663b3593D2037aF2",
 			"symbol":"NFTP",
@@ -606,11 +614,11 @@
 			"logoURI":"https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/NFTP.png"
 		},
 		{
-			"name":"NFThub",
 			"address":"0xf5c39a7CEff5dA5BFB062389f62939A8C8396CB3",
+			"chainId":137,
+			"name":"NFThub",
 			"symbol":"gNFT",
 			"decimals":18,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xf5c39a7CEff5dA5BFB062389f62939A8C8396CB3.png"
 		},
 		{
@@ -731,7 +739,7 @@
 			"symbol":"RBAL",
 			"decimals":18,
 			"chainId":137,
-			"logoURI":"http://rebalancetoken.io/images/logo/RBAL_ERC20_small_001_256.png"
+			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x03247a4368A280bEc8133300cD930A3a61d604f6.png"
 		},
 		{
 			"name":"Route",
@@ -750,19 +758,19 @@
 			"logoURI":"https://raw.githubusercontent.com/Palette-Finance/images/main/solar.png"
 		},
 		{
-			"name":"Sapien Network",
 			"address":"0xeAb9Cfb094db203e6035c2e7268A86DEbeD5BD14",
+			"chainId":137,
+			"name":"Sapien Network",
 			"symbol":"SPN",
 			"decimals":6,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xeAb9Cfb094db203e6035c2e7268A86DEbeD5BD14.png"
 		},
 		{
-			"name":"Seed Token",
 			"address":"0x371b97c779E8C5197426215225dE0eEac7dD13AF",
+			"chainId":137,
+			"name":"Seed Token",
 			"symbol":"SEED",
 			"decimals":0,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x371b97c779E8C5197426215225dE0eEac7dD13AF.png"
 		},
 		{
@@ -806,11 +814,11 @@
 			"logoURI":"https://assets.coingecko.com/coins/images/14040/small/6YPdWn6.png?1613975899"
 		},
 		{
-			"name":"SwapMatic Token",
 			"address":"0x94C18174840F80D49d59DC3a1742aF0B884A8184",
+			"chainId":137,
+			"name":"SwapMatic Token",
 			"symbol":"SWAM",
 			"decimals":18,
-			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x94C18174840F80D49d59DC3a1742aF0B884A8184.png"
 		},
 		{
@@ -926,12 +934,28 @@
 			"logoURI":"https://etherscan.io/token/images/wisetoken_32.png"
 		},
 		{
+			"name":"Wrapped LUNA Token",
+			"address":"0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57",
+			"symbol":"LUNA",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://etherscan.io/token/images/terra-luna_32.png"
+		},
+		{
 			"name":"Wrapped Matic",
 			"address":"0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
 			"symbol":"WMATIC",
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+		},
+		{
+			"name":"Wrapped UST Token",
+			"address":"0x692597b009d13C4049a947CAB2239b7d6517875F",
+			"symbol":"UST",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://etherscan.io/token/images/terra-ust_32.png"
 		},
 		{
 			"chainId":137,
