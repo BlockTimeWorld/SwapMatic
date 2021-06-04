@@ -4,7 +4,7 @@
 	"version":{
 		"major":1,
 		"minor":0,
-		"patch":2
+		"patch":3
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
 	"keywords":[
@@ -260,6 +260,14 @@
 			"symbol":"DUST",
 			"decimals":8,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D.png"
+		},
+		{
+			"address":"0xED42605D2F2aBd7Dff808662a322A87804eF3a00",
+			"chainId":137,
+			"name":"Dogematic",
+			"symbol":"DM",
+			"decimals":8,
+			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xED42605D2F2aBd7Dff808662a322A87804eF3a00.png"
 		},
 		{
 			"name":"DokiDokiAzuki",
@@ -910,14 +918,6 @@
 			"logoURI":"https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
 		},
 		{
-			"chainId":137,
-			"address":"0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-			"name":"Dfyn WMATIC",
-			"symbol":"WMATIC2",
-			"decimals":18,
-			"logoURI":"https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=006"
-		},
-		{
 			"name":"WazirX",
 			"address":"0x72d6066F486bd0052eefB9114B66ae40e0A6031a",
 			"symbol":"WRX",
@@ -942,7 +942,7 @@
 			"logoURI":"https://etherscan.io/token/images/terra-luna_32.png"
 		},
 		{
-			"name":"Wrapped Matic",
+			"name":"Wrapped MATIC",
 			"address":"0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
 			"symbol":"WMATIC",
 			"decimals":18,
@@ -1024,8 +1024,8 @@
 		{
 			"chainId":137,
 			"address":"0x4c28f48448720e9000907BC2611F73022fdcE1fA",
-			"name":"Wrapped MATIC",
-			"symbol":"WMATIC",
+			"name":"WMATIC by Dfyn",
+			"symbol":"WMATIC2",
 			"decimals":18,
 			"logoURI":"https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=006"
 		},
