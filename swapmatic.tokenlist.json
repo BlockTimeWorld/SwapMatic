@@ -4,7 +4,7 @@
 	"version":{
 		"major":1,
 		"minor":0,
-		"patch":3
+		"patch":4
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
 	"keywords":[
@@ -244,6 +244,14 @@
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
+		},
+		{
+			"address":"0x4D0Def42Cf57D6f27CD4983042a55dce1C9F853c",
+			"chainId":137,
+			"name":"DexKit",
+			"symbol":"KIT",
+			"decimals":18,
+			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x4D0Def42Cf57D6f27CD4983042a55dce1C9F853c.png"
 		},
 		{
 			"name":"Digital Reserve Currency",
