@@ -1,10 +1,10 @@
 {
 	"name":"SwapMatic Token List",
-	"timestamp":"2021-06-18T00:00:00.000+00:00",
+	"timestamp":"2021-06-04T00:00:00.000+00:00",
 	"version":{
 		"major":1,
 		"minor":0,
-		"patch":6
+		"patch":5
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
 	"keywords":[
@@ -30,30 +30,6 @@
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x2052344CeAce7f140da3E819c7729fEF72F97851.png"
 		},
 		{
-			"name":"AGA",
-			"address":"0x033d942a6b495c4071083f4cde1f17e986fe856c",
-			"symbol":"AGA",
-			"decimals":4,
-			"chainId":137,
-			"logoURI":"https://i.imgur.com/jP16jUZ.png"
-		},
-		{
-			"name":"AGA Carbon Credit",
-			"address":"0x669ddc70273084ea30e6cd4f28ca6e2c70735065",
-			"symbol":"AGAc",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/AGAToken/AGAToken/main/agac128.png"
-		},
-		{
-			"name":"AGA Carbon Rewards",
-			"address":"0xcBce9f77921C2E90522d438dF4C5582F4c617768",
-			"symbol":"AGAcr",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/AGAToken/AGAToken/main/acr128.png"
-		},
-		{
 			"name":"AGA Rewards",
 			"address":"0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
 			"symbol":"AGAr",
@@ -62,12 +38,12 @@
 			"logoURI":"https://i.imgur.com/06BkcTT.png"
 		},
 		{
-			"name":"APWine",
-			"address":"0x6C0AB120dBd11BA701AFF6748568311668F63FE0",
-			"symbol":"APW",
-			"decimals":18,
+			"name":"AGA Token",
+			"address":"0x033d942A6b495C4071083f4CDe1f17e986FE856c",
+			"symbol":"AGA",
+			"decimals":4,
 			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/APWine.jpeg"
+			"logoURI":"https://i.imgur.com/R0aQlym.png"
 		},
 		{
 			"name":"ARIANEE",
@@ -94,62 +70,6 @@
 			"logoURI":"https://etherscan.io/token/images/aave_32.png"
 		},
 		{
-			"name":"Aave Matic Market AAVE",
-			"address":"0x1d2a0E5EC8E5bBDCA5CB219e649B565d8e5c3360",
-			"symbol":"AMAAVE",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aAAVE.png"
-		},
-		{
-			"name":"Aave Matic Market DAI",
-			"address":"0x27F8D03b3a2196956ED754baDc28D73be8830A6e",
-			"symbol":"amDAI",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aDAI.png"
-		},
-		{
-			"name":"Aave Matic Market USDC",
-			"address":"0x1a13F4Ca1d028320A707D99520AbFefca3998b7F",
-			"symbol":"amUSDC",
-			"decimals":6,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aUSDC.png"
-		},
-		{
-			"name":"Aave Matic Market USDT",
-			"address":"0x60D55F02A771d515e077c9C2403a1ef324885CeC",
-			"symbol":"amUSDT",
-			"decimals":6,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aUSDT.png"
-		},
-		{
-			"name":"Aave Matic Market WBTC",
-			"address":"0x5c2ed810328349100A66B82b78a1791B101C9D61",
-			"symbol":"amWBTC",
-			"decimals":8,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aWBTC.png"
-		},
-		{
-			"name":"Aave Matic Market WETH",
-			"address":"0x28424507fefb6f7f8E9D3860F56504E4e5f5f390",
-			"symbol":"amWETH",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aETH.png"
-		},
-		{
-			"name":"Aave Matic Market WMATIC",
-			"address":"0x8dF3aad3a84da6b69A4DA8aeC3eA40d9091B2Ac4",
-			"symbol":"amWMATIC",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aMATIC.png"
-		},
-		{
 			"name":"Aavegotchi GHST Token",
 			"address":"0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
 			"symbol":"GHST",
@@ -164,14 +84,6 @@
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://adamant.finance/img/adamant.png"
-		},
-		{
-			"name":"Alchemix",
-			"address":"0x95c300e7740D2A88a44124B424bFC1cB2F9c3b89",
-			"symbol":"ALCX",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/alcx.png"
 		},
 		{
 			"name":"Anyswap",
@@ -190,60 +102,12 @@
 			"logoURI":"https://i.imgur.com/8ItdsvJ.png"
 		},
 		{
-			"name":"Autofarm",
-			"address":"0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
-			"symbol":"pAUTO",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/autofarm.jpeg"
-		},
-		{
 			"name":"BTU Protocol",
 			"address":"0xFdc26CDA2d2440d0E83CD1DeE8E8bE48405806DC",
 			"symbol":"BTU",
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb683D83a532e2Cb7DFa5275eED3698436371cc9f/logo.png"
-		},
-		{
-			"name":"Badger Sett Badger",
-			"address":"0x2628D301b161DB70E3dBbAc88d9D900cA426fF02",
-			"symbol":"bBADGER",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3472A5A71965499acd81997a54BBA8D852C6E53d/logo.png"
-		},
-		{
-			"name":"Badger Sett Digg",
-			"address":"0xFDde616084427f0A231D0664a985E1F820E34693",
-			"symbol":"bDIGG",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x798D1bE841a82a273720CE31c822C61a67a601C3/logo.png"
-		},
-		{
-			"name":"Beefy",
-			"address":"0xFbdd194376de19a88118e84E279b977f165d01b8",
-			"symbol":"BIFI",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/beefyfinance/beefy-app/prod/src/images/single-assets/BIFI.png"
-		},
-		{
-			"name":"Binance coin",
-			"address":"0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
-			"symbol":"BNB",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/bnb.png"
-		},
-		{
-			"name":"Blackpool",
-			"address":"0x6863BD30C9e313B264657B107352bA246F8Af8e0",
-			"symbol":"BPT",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/blackpool.jpeg"
 		},
 		{
 			"name":"BlazarBits",
@@ -292,14 +156,6 @@
 			"symbol":"COR",
 			"decimals":18,
 			"logoURI":"https://etherscan.io/token/images/cortoken_32.png?v=124124521"
-		},
-		{
-			"name":"Cryption Network Token",
-			"address":"0xD1e6354fb05bF72A8909266203dAb80947dcEccF",
-			"symbol":"CNT",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://cryption-network.s3.us-east-2.amazonaws.com/Globe+Gradient.png"
 		},
 		{
 			"name":"Cryptocurrency Top Tokens Index",
@@ -422,28 +278,12 @@
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xED42605D2F2aBd7Dff808662a322A87804eF3a00.png"
 		},
 		{
-			"name":"DokiDoki.Chainbinders",
-			"address":"0x032b3217241fe53fFaDB334a9d06aACd2A9153D9",
-			"symbol":"BND",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/bnd.png"
-		},
-		{
 			"name":"DokiDokiAzuki",
 			"address":"0x7CdC0421469398e0F3aA8890693d86c840Ac8931",
 			"symbol":"AZUKI",
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/azuki.png"
-		},
-		{
-			"name":"DokiDokiFinance",
-			"address":"0x5C7F7Fe4766fE8f0fa9b41E2E4194d939488ff1C",
-			"symbol":"DOKI",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9cEB84f92A0561fa3Cc4132aB9c0b76A59787544/logo.png"
 		},
 		{
 			"name":"EASY",
@@ -494,14 +334,6 @@
 			"logoURI":"https://etherlegends.com/ELET.png"
 		},
 		{
-			"name":"Eleven Finance",
-			"address":"0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
-			"symbol":"ELE",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://eleven.finance/ELE-logo.svg"
-		},
-		{
 			"name":"EthLend Token",
 			"address":"0x313d009888329C9d1cf4f75CA3f32566335bd604",
 			"symbol":"LEND",
@@ -518,28 +350,20 @@
 			"logoURI":"https://s2.coinmarketcap.com/static/img/coins/64x64/9651.png"
 		},
 		{
-			"name":"FISH",
-			"address":"0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
-			"symbol":"FISH",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Polycat.png"
-		},
-		{
-			"name":"Ferrum Network Token",
-			"address":"0xd99baFe5031cC8B345cb2e8c80135991F12D7130",
-			"symbol":"FRM",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://etherscan.io/token/images/ferrumnetworktoken_32.png"
-		},
-		{
 			"address":"0x422E0Cba8e57Acc799fC14DAdf2b72DfbA281c5F",
 			"chainId":137,
 			"name":"FireBird DAO",
 			"symbol":"FBIRD",
 			"decimals":18,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x422E0Cba8e57Acc799fC14DAdf2b72DfbA281c5F.png"
+		},
+		{
+			"name":"Fish",
+			"address":"0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+			"symbol":"FISH",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://i.imgur.com/ncleoTN.png"
 		},
 		{
 			"name":"Frax",
@@ -590,14 +414,6 @@
 			"logoURI":"https://gains.farm/images/logo256.png"
 		},
 		{
-			"address":"0xdb95f9188479575F3F718a245EcA1B3BF74567EC",
-			"chainId":137,
-			"name":"Gitcoin",
-			"symbol":"GTC",
-			"decimals":18,
-			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xdb95f9188479575F3F718a245EcA1B3BF74567EC.png"
-		},
-		{
 			"chainId":137,
 			"address":"0xbE5cf150E1fF59ca7F2499Eaa13BFC40AAE70e78",
 			"name":"Glitch",
@@ -606,15 +422,7 @@
 			"logoURI":"https://etherscan.io/token/images/glitch_32.png"
 		},
 		{
-			"name":"GrumpySat",
-			"address":"0x6A174B728D8b7C0C1F239910BB90B3540e1Cc0Dd",
-			"symbol":"gSAT",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/gSAT.jpeg"
-		},
-		{
-			"name":"HEX",
+			"name":"HEXX",
 			"address":"0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
 			"symbol":"HEX",
 			"decimals":8,
@@ -646,28 +454,12 @@
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xb51b25eA2319E15Aeb2C38C03E83F6e92A9Aeae3.png"
 		},
 		{
-			"name":"Julien",
-			"address":"0x268Ad27C28601D28b79c792C14e95BD2b7A030F8",
-			"symbol":"JULIEN",
-			"decimals":4,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe6710e0CdA178f3D921f456902707B0d4C4A332B/logo.png"
-		},
-		{
 			"address":"0x2bc8dE98D85dE0A00E29DCB5F90c9C15F7A72892",
 			"chainId":137,
 			"name":"Junk Token",
 			"symbol":"JUNK",
 			"decimals":18,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x2bc8dE98D85dE0A00E29DCB5F90c9C15F7A72892.png"
-		},
-		{
-			"name":"KIF",
-			"address":"0x5f084F3EE7EA09E4C01CEE3cDF1B5620A3344fd0",
-			"symbol":"KIF",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://media.discordapp.net/attachments/837682852040278026/838477319626686464/KIF-KittenFinance-logo.png"
 		},
 		{
 			"address":"0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f",
@@ -686,44 +478,12 @@
 			"logoURI":"https://i.imgur.com/REyP9yh.jpg"
 		},
 		{
-			"name":"LADZ",
-			"address":"0x220ED61d1f1CC754cB71978585D69e07Be576315",
-			"symbol":"LADZ",
-			"decimals":4,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/ladz.jpg"
-		},
-		{
 			"address":"0x28E96FFe75CdCc97044585b866BD02bD79C12dc0",
 			"chainId":137,
 			"name":"LimeJuice",
 			"symbol":"JUICE",
 			"decimals":6,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x28E96FFe75CdCc97044585b866BD02bD79C12dc0.png"
-		},
-		{
-			"address":"0xC1261c5cd7770f24070492C2064244a5f90dB9DB",
-			"chainId":137,
-			"name":"LiquidWhale",
-			"symbol":"LiquidWhale",
-			"decimals":9,
-			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xC1261c5cd7770f24070492C2064244a5f90dB9DB.png"
-		},
-		{
-			"name":"MEME",
-			"address":"0xf2b5a8c37278bcdD50727D5CA879f8e5A4642e2e",
-			"symbol":"MEME",
-			"decimals":8,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/meme.png"
-		},
-		{
-			"name":"MM Token",
-			"address":"0x2E220744f9aC1BF3045B0588D339F5fD3bB8623A",
-			"symbol":"MM",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/MMtoken.png"
 		},
 		{
 			"name":"Mantra Dao",
@@ -838,36 +598,12 @@
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x66d575db1BbA30B6364C04A484E14Bc8DfEE2bbb.png"
 		},
 		{
-			"name":"MegaBONK",
-			"address":"0xd93c61D4418d77A537b6B57478C108E193362f0C",
-			"symbol":"mBONK",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/mBonk.png"
-		},
-		{
 			"name":"Monavale",
 			"address":"0x6968105460f67c3BF751bE7C15f92F5286Fd0CE5",
 			"symbol":"MONA",
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://i.imgur.com/FR12tmm.jpg"
-		},
-		{
-			"name":"Mushrooming WBTC",
-			"address":"0x652E36ecFA0E4F7e435F6D38688D68a3bE65639c",
-			"symbol":"mWBTC",
-			"decimals":8,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/mWBTC.jpg"
-		},
-		{
-			"name":"Mushrooming WETH",
-			"address":"0xdc0f3C12dF89593357985491bdAcc5Fd789cA4B2",
-			"symbol":"mWETH",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/mWETH.jpg"
 		},
 		{
 			"name":"Must",
@@ -910,14 +646,6 @@
 			"logoURI":"https://raw.githubusercontent.com/nordfinance/nord-assets/master/logo.png"
 		},
 		{
-			"name":"NodeRunners",
-			"address":"0xfb65ef42F7c8A70ff73F627DB6E9ba2Aff1F20fa",
-			"symbol":"NDR",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://tokens.1inch.exchange/0x739763a258640919981f9ba610ae65492455be53.png"
-		},
-		{
 			"name":"Ocean Token",
 			"address":"0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
 			"symbol":"mOCEAN",
@@ -942,14 +670,6 @@
 			"logoURI":"https://assets.coingecko.com/coins/images/13751/small/autofarm_icon_200x200.png?1611494288"
 		},
 		{
-			"name":"PLAY",
-			"address":"0xDd24aA9166dCDf0B37D0Fca17D6Ea87748771dCC",
-			"symbol":"PLAY",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/pie-dao/brand/master/PIE%20Tokens/PLAY.svg"
-		},
-		{
 			"name":"PLOT",
 			"address":"0xe82808eaA78339b06a691fd92E1Be79671cAd8D3",
 			"symbol":"PLOT",
@@ -966,36 +686,12 @@
 			"logoURI":"https://etherscan.io/token/images/pepedex_32.png?v=2"
 		},
 		{
-			"name":"PickleToken",
-			"address":"0x2b88aD57897A8b496595925F43048301C37615Da",
-			"symbol":"PICKLE",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/pickle.png"
-		},
-		{
-			"chainId":137,
-			"address":"0xD12DC5319808Bb31ba95AE5764def2627d5966CE",
-			"name":"Pirate Booty",
-			"symbol":"BOOTY",
-			"decimals":18,
-			"logoURI":"https://piratedice.xyz/booty.png"
-		},
-		{
 			"name":"PolyDoge",
 			"address":"0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
 			"symbol":"PolyDoge",
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://polydoge.com/doge-webpage_files/doge.png"
-		},
-		{
-			"name":"PolyGaj",
-			"address":"0xF4B0903774532AEe5ee567C02aaB681a81539e92",
-			"symbol":"GAJ",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/polygaj.png"
 		},
 		{
 			"chainId":137,
@@ -1062,28 +758,12 @@
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x03247a4368A280bEc8133300cD930A3a61d604f6.png"
 		},
 		{
-			"name":"RebalanceGovernance Token",
-			"address":"0xefFCa2dBB2D9F3816ceE07aE2134574FA9210dcb",
-			"symbol":"RBAG",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/rbag.jpeg"
-		},
-		{
 			"name":"Route",
 			"address":"0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
 			"symbol":"Route",
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://router-protocol.s3-ap-southeast-1.amazonaws.com/route+token+200x200-19.png"
-		},
-		{
-			"name":"Royale",
-			"address":"0x0bD820aD2d7Ab7305b5C9538ba824C9b9bEb0561",
-			"symbol":"ROYA",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/RoyaleFinanceV1/royale-contracts/master/royale.png"
 		},
 		{
 			"chainId":137,
@@ -1118,68 +798,12 @@
 			"logoURI":"https://cdn-images-1.medium.com/max/1200/1*mK1oPGsQWh4Nfupg-e0S-g.png"
 		},
 		{
-			"name":"Showcase",
-			"address":"0x9e01e0A928588aE6E669b8d1F0f1fa4AB976f617",
-			"symbol":"SHO",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/ad8c53fa2bd31dfa827c7107e96f3a1591a260ed/img/Showcase_Logos.svg"
-		},
-		{
 			"name":"SportX",
 			"address":"0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
 			"symbol":"SX",
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/sx.jpg"
-		},
-		{
-			"name":"Stake DAO BTC",
-			"address":"0xe212f92E5Af85268B33D2Aa587B51f49C3B945Be",
-			"symbol":"sdcrvRenWSBTC",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt-btc.png"
-		},
-		{
-			"name":"Stake DAO EUR",
-			"address":"0xfBdb45075Fb73ca4CC8b83FD6fdB4F9B696B1BA1",
-			"symbol":"sdeursCRV",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt-eur.png"
-		},
-		{
-			"name":"Stake DAO Token",
-			"address":"0x361A5a4993493cE00f61C32d4EcCA5512b82CE90",
-			"symbol":"SDT",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt.png"
-		},
-		{
-			"name":"Stake DAO USD",
-			"address":"0x87f0BFEE4435CE2B8643b221D0C1CAd21F5328B4",
-			"symbol":"sd3Crv",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt-usd.png"
-		},
-		{
-			"name":"StakeWise",
-			"address":"0xBbbe128568222623D21299f019a978C8587B33dC",
-			"symbol":"SWISE",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Swise.png"
-		},
-		{
-			"name":"Staked SDT",
-			"address":"0xD921F8318cfd786baB1ea7492673F053c518Ac04",
-			"symbol":"xSDT",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/xsdt.png"
 		},
 		{
 			"name":"Standard",
@@ -1198,36 +822,12 @@
 			"logoURI":"https://etherscan.io/token/images/stater_32.png"
 		},
 		{
-			"name":"Strudel BTC",
-			"address":"0x1489F4F7E3a80A0aD9fA23C39D2E8af818204ce9",
-			"symbol":"vBTC",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://etherscan.io/token/images/strudelbtc_32.png"
-		},
-		{
-			"name":"Strudel Finance",
-			"address":"0xf89887862538cE8eFBdbAdD5d483AE4A09dD9688",
-			"symbol":"$TRDL",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://assets.coingecko.com/coins/images/13854/small/1614634281474-TRDL_LOGO_PNG.png"
-		},
-		{
 			"name":"SuperFarm",
 			"address":"0xa1428174F516F527fafdD146b883bB4428682737",
 			"symbol":"SUPER",
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://assets.coingecko.com/coins/images/14040/small/6YPdWn6.png?1613975899"
-		},
-		{
-			"name":"SushiToken",
-			"address":"0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
-			"symbol":"SUSHI",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
 		},
 		{
 			"address":"0x94C18174840F80D49d59DC3a1742aF0B884A8184",
@@ -1310,14 +910,6 @@
 			"logoURI":"https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png"
 		},
 		{
-			"name":"VGTGToken",
-			"address":"0x0c5EBeD5cB5BD838BDc43E1583D9d054f3d7Be6c",
-			"symbol":"VGTG",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/vgtg.jpeg"
-		},
-		{
 			"name":"Vision Token",
 			"address":"0x034b2090b579228482520c589dbD397c53Fc51cC",
 			"symbol":"VISION",
@@ -1398,6 +990,14 @@
 			"logoURI":"https://etherscan.io/token/images/zuzprotocol_32.png"
 		},
 		{
+			"name":"Beefy Finance",
+			"address":"0xFbdd194376de19a88118e84E279b977f165d01b8",
+			"symbol":"BIFI",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/beefyfinance/beefy-app/prod/src/images/single-assets/BIFI.png"
+		},
+		{
 			"name":"Decentral Games",
 			"address":"0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
 			"symbol":"DG",
@@ -1428,14 +1028,6 @@
 			"decimals":9,
 			"chainId":137,
 			"logoURI":"https://i.postimg.cc/PfLb0ssB/wolf-black.png"
-		},
-		{
-			"name":"pBTC",
-			"address":"0xd7ecf95Cf7eF5256990BeAf4ac895cD9e64cb947",
-			"symbol":"pBTC",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/pbtc.svg"
 		},
 		{
 			"chainId":137,
