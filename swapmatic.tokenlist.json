@@ -35,7 +35,7 @@
 			"symbol":"XZAR",
 			"decimals":8,
 			"chainId":137,
-			"logoURI":"https://www.facebook.com/xZARSA/photos/a.110043834189125/110045480855627/"
+			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/xzar.png"
 		},
 		{
 			"name":"LiquidWhale",
