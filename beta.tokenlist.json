@@ -14,6 +14,22 @@
 	],
 	"tokens":[
 		{
+			"name":"Balancer",
+			"address":"0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+			"symbol":"BAL",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+		},
+		{
+			"name":"SushiToken",
+			"address":"0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+			"symbol":"SUSHI",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+		},
+		{
 			"name":"0xBitcoin Token",
 			"address":"0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
 			"symbol":"0xBTC",
