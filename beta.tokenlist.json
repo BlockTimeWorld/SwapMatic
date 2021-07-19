@@ -14,6 +14,46 @@
 	],
 	"tokens":[
 		{
+			"name":"Pup Token",
+			"address":"0xcfe2cf35d2bdde84967e67d00ad74237e234ce59",
+			"symbol":"PUP",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://www.polypup.finance/images/egg/2.png"
+		},
+		{
+			"name":"Bone Token",
+			"address":"0x6bb45ceac714c52342ef73ec663479da35934bf7",
+			"symbol":"BONE",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://farm.boneswap.finance/images/bone/logo.png"
+		},
+		{
+			"name":"South African Tether",
+			"address":"0x30de46509dbc3a491128f97be0aaf70dc7ff33cb",
+			"symbol":"XZAR",
+			"decimals":8,
+			"chainId":137,
+			"logoURI":"https://www.facebook.com/xZARSA/photos/a.110043834189125/110045480855627/"
+		},
+		{
+			"name":"LiquidWhale",
+			"address":"0xC1261c5cd7770f24070492C2064244a5f90dB9DB",
+			"symbol":"LiquidWhale",
+			"decimals":9,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xC1261c5cd7770f24070492C2064244a5f90dB9DB.png"
+		},
+		{
+			"name":"Validator",
+			"address":"0x9d47b3faa5ff227d2bd404f572ef0ab0c8409161",
+			"symbol":"VALX",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://pbs.twimg.com/profile_images/1410528571823636482/CioezYBu_400x400.png"
+		},
+		{
 			"name":"renBTC",
 			"address":"0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
 			"symbol":"renBTC",
