@@ -1,10 +1,10 @@
 {
 	"name":"SwapMatic Token List",
-	"timestamp":"2021-06-04T00:00:00.000+00:00",
+	"timestamp":"2021-07-18T00:00:00.000+00:00",
 	"version":{
 		"major":1,
-		"minor":0,
-		"patch":5
+		"minor":1,
+		"patch":0
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
 	"keywords":[
@@ -13,6 +13,94 @@
 		"DeFi"
 	],
 	"tokens":[
+		{
+			"name":"Pup Token",
+			"address":"0xcfe2cf35d2bdde84967e67d00ad74237e234ce59",
+			"symbol":"PUP",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://www.polypup.finance/images/egg/2.png"
+		},
+		{
+			"name":"Bone Token",
+			"address":"0x6bb45ceac714c52342ef73ec663479da35934bf7",
+			"symbol":"BONE",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://farm.boneswap.finance/images/bone/logo.png"
+		},
+		{
+			"name":"South African Tether",
+			"address":"0x30de46509dbc3a491128f97be0aaf70dc7ff33cb",
+			"symbol":"XZAR",
+			"decimals":8,
+			"chainId":137,
+			"logoURI":"https://www.facebook.com/xZARSA/photos/a.110043834189125/110045480855627/"
+		},
+		{
+			"name":"LiquidWhale",
+			"address":"0xC1261c5cd7770f24070492C2064244a5f90dB9DB",
+			"symbol":"LiquidWhale",
+			"decimals":9,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xC1261c5cd7770f24070492C2064244a5f90dB9DB.png"
+		},
+		{
+			"name":"Validator",
+			"address":"0x9d47b3faa5ff227d2bd404f572ef0ab0c8409161",
+			"symbol":"VALX",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://pbs.twimg.com/profile_images/1410528571823636482/CioezYBu_400x400.png"
+		},
+		{
+			"name":"renBTC",
+			"address":"0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
+			"symbol":"renBTC",
+			"decimals":8,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png"
+		},
+		{
+			"name":"Graph Token",
+			"address":"0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+			"symbol":"GRT",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png"
+		},
+		{
+			"name":"Synthetix Network Token",
+			"address":"0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
+			"symbol":"SNX",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+		},
+		{
+			"name":"Meta",
+			"address":"0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0",
+			"symbol":"MTA",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2/logo.png"
+		},
+		{
+			"name":"Balancer",
+			"address":"0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+			"symbol":"BAL",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+		},
+		{
+			"name":"SushiToken",
+			"address":"0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+			"symbol":"SUSHI",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+		},
 		{
 			"name":"0xBitcoin Token",
 			"address":"0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
