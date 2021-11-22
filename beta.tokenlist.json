@@ -1,10 +1,10 @@
 {
 	"name":"SwapMatic Beta",
-	"timestamp":"2021-07-18T00:00:00.000+00:00",
+	"timestamp":"2021-11-22T00:00:00.000+00:00",
 	"version":{
 		"major":1,
 		"minor":1,
-		"patch":5
+		"patch":6
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
 	"keywords":[
