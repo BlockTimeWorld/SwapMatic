@@ -14,6 +14,14 @@
 	],
 	"tokens":[
 		{
+			"name":"TrueUSD",
+			"address":"0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+			"symbol":"TUSD",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/trueusd_32.png"
+		},
+		{
 			"name":"THX Network",
 			"address":"0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015",
 			"symbol":"THX",
