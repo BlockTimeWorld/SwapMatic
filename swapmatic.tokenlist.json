@@ -1,9 +1,9 @@
 {
 	"name":"SwapMatic Token List",
-	"timestamp":"2021-07-18T00:00:00.000+00:00",
+	"timestamp":"2021-11-23T00:00:00.000+00:00",
 	"version":{
 		"major":1,
-		"minor":1,
+		"minor":2,
 		"patch":0
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
@@ -13,6 +13,70 @@
 		"DeFi"
 	],
 	"tokens":[
+		{
+			"name":"TrueUSD",
+			"address":"0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+			"symbol":"TUSD",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/trueusd_32.png"
+		},
+		{
+			"name":"THX Network",
+			"address":"0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015",
+			"symbol":"THX",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/images/main/empty-token.png"
+		},
+		{
+			"name":"Telcoin",
+			"address":"0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+			"symbol":"TEL",
+			"decimals":2,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/telcoin_28.png"
+		},
+		{
+			"name":"Parallel",
+			"address":"0xE2Aa7db6dA1dAE97C5f5C6914d285fBfCC32A128",
+			"symbol":"PAR",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://assets.coingecko.com/coins/images/14153/small/par_round_200.png?1614670422"
+		},
+		{
+			"name":"PolyGas",
+			"address":"0x840b5fc8c6dee2b1140174a3abdc215190426ccf",
+			"symbol":"polyGAS",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/polygas_32.png"
+		},
+		{
+			"name":"TMPO Token",
+			"address":"0x3d426638a42e0449022583d718944b95f92b593b",
+			"symbol":"TMPO",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/tmpo_32.png"
+		},
+		{
+			"name":"Avalanche Token",
+			"address":"0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+			"symbol":"AVAX",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818"
+		},
+		{
+			"name":"Solana",
+			"address":"0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4",
+			"symbol":"SOL",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://assets.coingecko.com/coins/images/4128/small/Solana.jpg?1635329178"
+		},
 		{
 			"name":"Pup Token",
 			"address":"0xcfe2cf35d2bdde84967e67d00ad74237e234ce59",
@@ -27,7 +91,7 @@
 			"symbol":"BONE",
 			"decimals":18,
 			"chainId":137,
-			"logoURI":"https://farm.boneswap.finance/images/bone/logo.png"
+			"logoURI":"https://avax.boneswap.finance/images/bone/logo.png"
 		},
 		{
 			"name":"South African Tether",
@@ -35,7 +99,7 @@
 			"symbol":"XZAR",
 			"decimals":8,
 			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/xzar.png"
+			"logoURI":"https://s2.coinmarketcap.com/static/img/coins/64x64/5946.png"
 		},
 		{
 			"name":"LiquidWhale",
@@ -374,44 +438,12 @@
 			"logoURI":"https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/azuki.png"
 		},
 		{
-			"name":"EASY",
-			"address":"0xDb3b3b147A030F032633f6C4BEBf9a2fB5a882B5",
-			"symbol":"EASY",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
-		},
-		{
 			"chainId":137,
 			"address":"0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
 			"name":"ETH",
 			"symbol":"ETH",
 			"decimals":18,
 			"logoURI":"https://cryptologos.cc/logos/ethereum-eth-logo.svg"
-		},
-		{
-			"name":"Easy DAI",
-			"address":"0xa1C09C8F4f5D03fcC27b456475d53d988e98D7C5",
-			"symbol":"eDAI",
-			"decimals":8,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
-		},
-		{
-			"name":"Easy USDC",
-			"address":"0x4eBdE54ba404bE158262EDe801744b92b9878c61",
-			"symbol":"eUSDC",
-			"decimals":8,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
-		},
-		{
-			"name":"Easy USDT",
-			"address":"0xfc39742Fe9420a7Af23757Fc7E78D1c3AE4A9474",
-			"symbol":"eUSDT",
-			"decimals":8,
-			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
 		},
 		{
 			"name":"Elementeum",
