@@ -30,14 +30,6 @@
 			"logoURI":"https://polygonscan.com/images/main/empty-token.png"
 		},
 		{
-			"name":"Telcoin",
-			"address":"0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
-			"symbol":"TEL",
-			"decimals":2,
-			"chainId":137,
-			"logoURI":"https://polygonscan.com/token/images/telcoin_28.png"
-		},
-		{
 			"name":"Parallel",
 			"address":"0xE2Aa7db6dA1dAE97C5f5C6914d285fBfCC32A128",
 			"symbol":"PAR",
