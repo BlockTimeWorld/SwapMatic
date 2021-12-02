@@ -78,14 +78,6 @@
 			"logoURI":"https://www.polypup.finance/images/egg/2.png"
 		},
 		{
-			"name":"Bone Token",
-			"address":"0x6bb45ceac714c52342ef73ec663479da35934bf7",
-			"symbol":"BONE",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://avax.boneswap.finance/images/bone/logo.png"
-		},
-		{
 			"name":"South African Tether",
 			"address":"0x30de46509dbc3a491128f97be0aaf70dc7ff33cb",
 			"symbol":"XZAR",
