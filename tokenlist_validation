@@ -18,8 +18,8 @@ response = urlopen(url)
 schema = json.loads(response.read())
 
 # load a list to validate
-#url = "https://raw.githubusercontent.com/BlockTimeWorld/SwapMatic/master/swapmatic.tokenlist.json"
-url = "https://raw.githubusercontent.com/BlockTimeWorld/SwapMatic/master/beta.tokenlist.json"
+url = "https://raw.githubusercontent.com/BlockTimeWorld/SwapMatic/master/swapmatic.tokenlist.json" # no duplicates
+#url = "https://raw.githubusercontent.com/BlockTimeWorld/SwapMatic/master/beta.tokenlist.json" # has a duplicate
 
 response = urlopen(url)
 instance = json.loads(response.read())
@@ -42,17 +42,16 @@ for r in resp:
     
     print(address, symbol)
     
-    if address in address_collect_list:
+    if address.lower() in address_collect_list:
         print()
         print("################## Duplicate address", address)
         print()
         
-    if symbol in symbol_collect_list:
+    if symbol.upper() in symbol_collect_list:
         print()
         print("################## Duplicate symbol", symbol)
         print()
         
-    address_collect_list.append(address)
-    symbol_collect_list.append(symbol)
-    
+    address_collect_list.append(address.lower())
+    symbol_collect_list.append(symbol.upper())
     
