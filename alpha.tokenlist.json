@@ -14,6 +14,14 @@
 	],
 	"tokens":[
 		{
+		    "name":"Bone Token",
+		    "address":"0x80244C2441779361F35803b8C711C6c8fC6054a3",
+		    "symbol":"BONE",
+		    "decimals":18,
+		    "chainId":137,
+		    "logoURI":"https://polygonscan.com/token/images/boneswap_32.png"
+		},
+		{
 		    "name":"Fabwelt",
 		    "address":"0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9",
 		    "symbol":"WELT",
