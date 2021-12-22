@@ -1,9 +1,9 @@
 {
-	"name":"SwapMatic Token List",
-	"timestamp":"2021-11-23T00:00:00.000+00:00",
+	"name":"SwapMatic Alpha List",
+	"timestamp":"2021-12-21T00:00:00.000+00:00",
 	"version":{
 		"major":1,
-		"minor":6,
+		"minor":7,
 		"patch":1
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
@@ -13,6 +13,54 @@
 		"DeFi"
 	],
 	"tokens":[
+		{
+		    "name":"Bone Token",
+		    "address":"0x80244C2441779361F35803b8C711C6c8fC6054a3",
+		    "symbol":"BONE",
+		    "decimals":18,
+		    "chainId":137,
+		    "logoURI":"https://polygonscan.com/token/images/boneswap_32.png"
+		},
+		{
+		    "name":"Fabwelt",
+		    "address":"0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9",
+		    "symbol":"WELT",
+		    "decimals":18,
+		    "chainId":137,
+		    "logoURI":"https://polygonscan.com/token/images/fabwelt2_32.png?v=10"
+		},
+		{
+		    "name":"OroPocket Gold",
+		    "address":"0x2eea1d77238501dcd2c5fdb072b4569a30a520b8",
+		    "symbol":"GOLD",
+		    "decimals":18,
+		    "chainId":137,
+		    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/orogold_32.png"
+		},
+		{
+		    "name":"OroPocket Silver",
+		    "address":"0x7Ad6c649E965b1D18eF22FA8a2BD85D45b99ff7c",
+		    "symbol":"SILVER",
+		    "decimals":18,
+		    "chainId":137,
+		    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/orosilver_32.png"
+		},
+		{
+		    "name":"Yearn Finance World",
+		    "address":"0x9cbc5d2a2690e3035948ae677f4462d1bdbd4024",
+		    "symbol":"YFW",
+		    "decimals":18,
+		    "chainId":137,
+		    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/yfw_32.png"
+		},
+		{
+		    "name":"Unifarm",
+		    "address":"0xA7305Ae84519fF8Be02484CdA45834C4E7D13Dd6",
+		    "symbol":"UFARM",
+		    "decimals":18,
+		    "chainId":137,
+		    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/unifarm_32.png"
+		},
 		{
 			"name":"TrueUSD",
 			"address":"0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
@@ -27,7 +75,7 @@
 			"symbol":"THX",
 			"decimals":18,
 			"chainId":137,
-			"logoURI":"https://polygonscan.com/images/main/empty-token.png"
+			"logoURI":"https://etherscan.io/token/images/thxnetwork_32.png"
 		},
 		{
 			"name":"Parallel",
@@ -371,7 +419,7 @@
 			"symbol":"DB",
 			"decimals":18,
 			"chainId":137,
-			"logoURI":"https://dark-build.app/logo192.png"
+			"logoURI":"https://assets.coingecko.com/coins/images/14195/small/DARK-circle_token_200px.png?1614853053"
 		},
 		{
 			"name":"Decentraland MANA",
