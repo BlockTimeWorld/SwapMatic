@@ -3,7 +3,7 @@
 	"timestamp":"2021-12-21T00:00:00.000+00:00",
 	"version":{
 		"major":1,
-		"minor":7,
+		"minor":8,
 		"patch":1
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
@@ -13,6 +13,14 @@
 		"DeFi"
 	],
 	"tokens":[
+		{
+		    "name":"Fractal Investment Token",
+		    "address":"0x1e933ecc8251259D473827DfeD48C19f2eD1889d",
+		    "symbol":"FIT",
+		    "decimals":18,
+		    "chainId":137,
+		    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/fit_32.png"
+		},
 		{
 		    "name":"Bone Token",
 		    "address":"0x80244C2441779361F35803b8C711C6c8fC6054a3",
@@ -419,7 +427,7 @@
 			"symbol":"DB",
 			"decimals":18,
 			"chainId":137,
-			"logoURI":"https://assets.coingecko.com/coins/images/14195/small/DARK-circle_token_200px.png?1614853053"
+			"logoURI":"https://dark-build.app/logo192.png"
 		},
 		{
 			"name":"Decentraland MANA",
