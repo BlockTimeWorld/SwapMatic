@@ -1,9 +1,9 @@
 {
 	"name":"SwapMatic Alpha List",
-	"timestamp":"2021-11-23T00:00:00.000+00:00",
+	"timestamp":"2021-12-21T00:00:00.000+00:00",
 	"version":{
 		"major":1,
-		"minor":6,
+		"minor":7,
 		"patch":1
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
