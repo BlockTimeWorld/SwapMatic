@@ -4,7 +4,7 @@
 	"version":{
 		"major":1,
 		"minor":9,
-		"patch":1
+		"patch":2
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
 	"keywords":[
@@ -475,7 +475,7 @@
 			"symbol":"DB",
 			"decimals":18,
 			"chainId":137,
-			"logoURI":"https://dark-build.app/logo192.png"
+			"logoURI":"https://assets.coingecko.com/coins/images/14195/small/DARK-circle_token_200px.png?1614853053"
 		},
 		{
 			"name":"Decentraland MANA",
@@ -547,7 +547,7 @@
 			"symbol":"LEND",
 			"decimals":18,
 			"chainId":137,
-			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/logo.png"
+			"logoURI":"https://polygonscan.com/token/images/ethlend_28.png"
 		},
 		{
 			"name":"EthermonToken",
@@ -556,14 +556,6 @@
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://s2.coinmarketcap.com/static/img/coins/64x64/9651.png"
-		},
-		{
-			"address":"0x422E0Cba8e57Acc799fC14DAdf2b72DfbA281c5F",
-			"chainId":137,
-			"name":"FireBird DAO",
-			"symbol":"FBIRD",
-			"decimals":18,
-			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x422E0Cba8e57Acc799fC14DAdf2b72DfbA281c5F.png"
 		},
 		{
 			"name":"Fish",
@@ -779,7 +771,7 @@
 			"name":"Nord",
 			"symbol":"NORD",
 			"decimals":18,
-			"logoURI":"https://raw.githubusercontent.com/nordfinance/nord-assets/master/logo.png"
+			"logoURI":"https://etherscan.io/token/images/nordfinance_32.png"
 		},
 		{
 			"name":"Ocean Token",
