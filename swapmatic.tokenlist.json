@@ -13,6 +13,70 @@
 		"DeFi"
 	],
 	"tokens":[
+				{
+		    "name":"Paycer",
+		    "address":"0xa6083abe845fbB8649d98B8586cBF50b7f233612",
+		    "symbol":"PCR",
+		    "decimals":18,
+		    "chainId":137,
+		    "logoURI":"https://polygonscan.com/token/images/paycertoken_32.png"
+		},
+		{
+			"name":"Ispolink",
+			"address":"0x1e289178612F5B6d32f692E312DcF783c74b2162",
+			"symbol":"ISP",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://etherscan.io/token/images/ispolinktoken_32.png"
+		},	
+		{
+			"name":"OwlDAO",
+			"address":"0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19",
+			"symbol":"OWL",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/owldao_32.png"
+		},	
+		{
+			"name":"GamyFi",
+			"address":"0x65ad6A2288b2Dd23E466226397c8F5D1794e58fC",
+			"symbol":"GFX",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/gamyfipoly_32.png"
+		},
+		{
+			"name":"OmniWhirl",
+			"address":"0x4F6cbacA3151f7746273004Fd7295933a9b70E69",
+			"symbol":"WHIRL",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/polywhirl_32.png"
+		},
+		{
+			"name":"Polytrade",
+			"address":"0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
+			"symbol":"TRADE",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/polytrade_32.png"
+		},		
+		{
+			"name":"Kommunitas",
+			"address":"0xC004e2318722EA2b15499D6375905d75Ee5390B8",
+			"symbol":"KOM",
+			"decimals":8,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/kommunitas_32.png"
+		},
+		{
+			"name":"Ferrum Network",
+			"address":"0xd99baFe5031cC8B345cb2e8c80135991F12D7130",
+			"symbol":"FRM",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/ferrumnetworkfrm_32.png"
+		},
 		{
 		    "name":"Fractal Investment Token",
 		    "address":"0x1e933ecc8251259D473827DfeD48C19f2eD1889d",
@@ -944,7 +1008,7 @@
 		{
 			"address":"0x80D55041E3954405664694899fF9F202c13C0e1c",
 			"chainId":137,
-			"name":"Seed Token",
+			"name":"Flowerpatch.app SEED",
 			"symbol":"SEED",
 			"decimals":0,
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x371b97c779E8C5197426215225dE0eEac7dD13AF.png"
