@@ -3,8 +3,8 @@
 	"timestamp":"2021-12-21T00:00:00.000+00:00",
 	"version":{
 		"major":1,
-		"minor":8,
-		"patch":2
+		"minor":9,
+		"patch":1
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
 	"keywords":[
@@ -13,13 +13,13 @@
 		"DeFi"
 	],
 	"tokens":[
-				{
-		    "name":"Paycer",
-		    "address":"0xa6083abe845fbB8649d98B8586cBF50b7f233612",
-		    "symbol":"PCR",
-		    "decimals":18,
-		    "chainId":137,
-		    "logoURI":"https://polygonscan.com/token/images/paycertoken_32.png"
+		{
+			"name":"Paycer",
+			"address":"0xa6083abe845fbB8649d98B8586cBF50b7f233612",
+			"symbol":"PCR",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/paycertoken_32.png"
 		},
 		{
 			"name":"Ispolink",
@@ -28,7 +28,7 @@
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://etherscan.io/token/images/ispolinktoken_32.png"
-		},	
+		},
 		{
 			"name":"OwlDAO",
 			"address":"0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19",
@@ -36,7 +36,7 @@
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://polygonscan.com/token/images/owldao_32.png"
-		},	
+		},
 		{
 			"name":"GamyFi",
 			"address":"0x65ad6A2288b2Dd23E466226397c8F5D1794e58fC",
@@ -60,7 +60,7 @@
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://polygonscan.com/token/images/polytrade_32.png"
-		},		
+		},
 		{
 			"name":"Kommunitas",
 			"address":"0xC004e2318722EA2b15499D6375905d75Ee5390B8",
@@ -78,60 +78,60 @@
 			"logoURI":"https://polygonscan.com/token/images/ferrumnetworkfrm_32.png"
 		},
 		{
-		    "name":"Fractal Investment Token",
-		    "address":"0x1e933ecc8251259D473827DfeD48C19f2eD1889d",
-		    "symbol":"FIT",
-		    "decimals":18,
-		    "chainId":137,
-		    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/fit_32.png"
+			"name":"Fractal Investment Token",
+			"address":"0x1e933ecc8251259D473827DfeD48C19f2eD1889d",
+			"symbol":"FIT",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/fit_32.png"
 		},
 		{
-		    "name":"Bone Token",
-		    "address":"0x80244C2441779361F35803b8C711C6c8fC6054a3",
-		    "symbol":"BONE",
-		    "decimals":18,
-		    "chainId":137,
-		    "logoURI":"https://polygonscan.com/token/images/boneswap_32.png"
+			"name":"Bone Token",
+			"address":"0x80244C2441779361F35803b8C711C6c8fC6054a3",
+			"symbol":"BONE",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/boneswap_32.png"
 		},
 		{
-		    "name":"Fabwelt",
-		    "address":"0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9",
-		    "symbol":"WELT",
-		    "decimals":18,
-		    "chainId":137,
-		    "logoURI":"https://polygonscan.com/token/images/fabwelt2_32.png?v=10"
+			"name":"Fabwelt",
+			"address":"0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9",
+			"symbol":"WELT",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/fabwelt2_32.png?v=10"
 		},
 		{
-		    "name":"OroPocket Gold",
-		    "address":"0x2eea1d77238501dcd2c5fdb072b4569a30a520b8",
-		    "symbol":"GOLD",
-		    "decimals":18,
-		    "chainId":137,
-		    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/orogold_32.png"
+			"name":"OroPocket Gold",
+			"address":"0x2eea1d77238501dcd2c5fdb072b4569a30a520b8",
+			"symbol":"GOLD",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/orogold_32.png"
 		},
 		{
-		    "name":"OroPocket Silver",
-		    "address":"0x7Ad6c649E965b1D18eF22FA8a2BD85D45b99ff7c",
-		    "symbol":"SILVER",
-		    "decimals":18,
-		    "chainId":137,
-		    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/orosilver_32.png"
+			"name":"OroPocket Silver",
+			"address":"0x7Ad6c649E965b1D18eF22FA8a2BD85D45b99ff7c",
+			"symbol":"SILVER",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/orosilver_32.png"
 		},
 		{
-		    "name":"Yearn Finance World",
-		    "address":"0x9cbc5d2a2690e3035948ae677f4462d1bdbd4024",
-		    "symbol":"YFW",
-		    "decimals":18,
-		    "chainId":137,
-		    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/yfw_32.png"
+			"name":"Yearn Finance World",
+			"address":"0x9cbc5d2a2690e3035948ae677f4462d1bdbd4024",
+			"symbol":"YFW",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/yfw_32.png"
 		},
 		{
-		    "name":"Unifarm",
-		    "address":"0xA7305Ae84519fF8Be02484CdA45834C4E7D13Dd6",
-		    "symbol":"UFARM",
-		    "decimals":18,
-		    "chainId":137,
-		    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/unifarm_32.png"
+			"name":"Unifarm",
+			"address":"0xA7305Ae84519fF8Be02484CdA45834C4E7D13Dd6",
+			"symbol":"UFARM",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/unifarm_32.png"
 		},
 		{
 			"name":"TrueUSD",
