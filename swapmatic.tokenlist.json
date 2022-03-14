@@ -278,14 +278,6 @@
 			"logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
 		},
 		{
-			"address":"0x2052344CeAce7f140da3E819c7729fEF72F97851",
-			"chainId":137,
-			"name":"1Million Token",
-			"symbol":"1MT",
-			"decimals":7,
-			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x2052344CeAce7f140da3E819c7729fEF72F97851.png"
-		},
-		{
 			"name":"AGA Rewards",
 			"address":"0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
 			"symbol":"AGAr",
@@ -302,7 +294,7 @@
 			"logoURI":"https://i.imgur.com/R0aQlym.png"
 		},
 		{
-			"name":"ARIANEE",
+			"name":"Arianee",
 			"address":"0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e",
 			"symbol":"ARIA20",
 			"decimals":18,
@@ -312,7 +304,7 @@
 		{
 			"chainId":137,
 			"address":"0x0c8C8Ae8bc3a69dC8482C01CEacfB588bb516B01",
-			"name":"AURORA",
+			"name":"Aurora",
 			"symbol":"AURORA",
 			"decimals":18,
 			"logoURI":"https://raw.githubusercontent.com/Palette-Finance/images/main/aurora_token_logo.png"
@@ -420,14 +412,6 @@
 			"decimals":18,
 			"chainId":137,
 			"logoURI":"https://etherscan.io/token/images/indexed-cc10_32.png"
-		},
-		{
-			"address":"0x9456000C7111a4308e17E912933782aEA1e29a49",
-			"chainId":137,
-			"name":"Cube Token",
-			"symbol":"CUBE",
-			"decimals":18,
-			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x9456000C7111a4308e17E912933782aEA1e29a49.png"
 		},
 		{
 			"name":"CyberFi Token",
@@ -718,78 +702,6 @@
 			"logoURI":"https://assets.coingecko.com/coins/images/12151/small/OM_3D_whtbg.png?1598332353"
 		},
 		{
-			"name":"Matic Aave interest bearing AAVE",
-			"address":"0x823CD4264C1b951C9209aD0DeAea9988fE8429bF",
-			"symbol":"maAAVE",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://aavegotchi.com/images/matokens/maAAVE.svg"
-		},
-		{
-			"name":"Matic Aave interest bearing DAI",
-			"address":"0xE0b22E0037B130A9F56bBb537684E6fA18192341",
-			"symbol":"maDAI",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://aavegotchi.com/images/matokens/maDAI.svg"
-		},
-		{
-			"name":"Matic Aave interest bearing LINK",
-			"address":"0x98ea609569bD25119707451eF982b90E3eb719cD",
-			"symbol":"maLINK",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://aavegotchi.com/images/matokens/maLINK.svg"
-		},
-		{
-			"name":"Matic Aave interest bearing TUSD",
-			"address":"0xF4b8888427b00d7caf21654408B7CBA2eCf4EbD9",
-			"symbol":"maTUSD",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://aavegotchi.com/images/matokens/maTUSD.svg"
-		},
-		{
-			"name":"Matic Aave interest bearing UNI",
-			"address":"0x8c8bdBe9CeE455732525086264a4Bf9Cf821C498",
-			"symbol":"maUNI",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://aavegotchi.com/images/matokens/maUNI.svg"
-		},
-		{
-			"name":"Matic Aave interest bearing USDC",
-			"address":"0x9719d867A500Ef117cC201206B8ab51e794d3F82",
-			"symbol":"maUSDC",
-			"decimals":6,
-			"chainId":137,
-			"logoURI":"https://aavegotchi.com/images/matokens/maUSDC.svg"
-		},
-		{
-			"name":"Matic Aave interest bearing USDT",
-			"address":"0xDAE5F1590db13E3B40423B5b5c5fbf175515910b",
-			"symbol":"maUSDT",
-			"decimals":6,
-			"chainId":137,
-			"logoURI":"https://aavegotchi.com/images/matokens/maUSDT.svg"
-		},
-		{
-			"name":"Matic Aave interest bearing WETH",
-			"address":"0x20D3922b4a1A8560E1aC99FBA4faDe0c849e2142",
-			"symbol":"maWETH",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://aavegotchi.com/images/matokens/maWETH.svg"
-		},
-		{
-			"name":"Matic Aave interest bearing YFI",
-			"address":"0xe20f7d1f0eC39C4d5DB01f53554F2EF54c71f613",
-			"symbol":"maYFI",
-			"decimals":18,
-			"chainId":137,
-			"logoURI":"https://aavegotchi.com/images/matokens/maYFI.svg"
-		},
-		{
 			"name":"Matic Deflect Protocol",
 			"address":"0x82B6205002ecd05e97642D38D61e2cFeaC0E18cE",
 			"symbol":"mDEF",
@@ -840,7 +752,7 @@
 		{
 			"chainId":137,
 			"address":"0xba47320eF6B1039F19F3C4096F0f3B3e8Eb8d1F8",
-			"name":"NEBULA",
+			"name":"Nebula",
 			"symbol":"NEBULA",
 			"decimals":18,
 			"logoURI":"https://raw.githubusercontent.com/Palette-Finance/images/main/nebula.png"
@@ -864,7 +776,7 @@
 		{
 			"chainId":137,
 			"address":"0xF6F85b3f9fd581C2eE717c404F7684486F057F95",
-			"name":"NORD",
+			"name":"Nord",
 			"symbol":"NORD",
 			"decimals":18,
 			"logoURI":"https://raw.githubusercontent.com/nordfinance/nord-assets/master/logo.png"
@@ -886,7 +798,7 @@
 			"logoURI":"https://www.opucoin.io/wp-content/uploads/2021/04/opu-coiin-icon-border.svg"
 		},
 		{
-			"name":"Orbit Bridge Polygon AUTOv2",
+			"name":"Orbit Bridge Polygon AUTO v2",
 			"address":"0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
 			"symbol":"PAUTO",
 			"decimals":18,
@@ -992,7 +904,7 @@
 		{
 			"chainId":137,
 			"address":"0x5FBccc4Acc0B9339D7CDC5d6336A5c88D89e5327",
-			"name":"SOLAR",
+			"name":"Solar",
 			"symbol":"SOLAR",
 			"decimals":18,
 			"logoURI":"https://raw.githubusercontent.com/Palette-Finance/images/main/solar.png"
@@ -1144,7 +1056,7 @@
 		{
 			"chainId":137,
 			"address":"0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
-			"name":"WBTC",
+			"name":"Wrapped BTC",
 			"symbol":"WBTC",
 			"decimals":8,
 			"logoURI":"https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
