@@ -14,6 +14,14 @@
 	],
 	"tokens":[
 		{
+			"name":"Bittoken",
+			"address":"0xfd0cbdDec28a93bB86B9db4A62258F5EF25fEfdE",
+			"symbol":"BITT",
+			"decimals":18,
+			"chainId":137,
+			"logoURI":"https://polygonscan.com/token/images/bittokenpoly_32.png"
+		},
+		{
 			"name":"Paycer",
 			"address":"0xa6083abe845fbB8649d98B8586cBF50b7f233612",
 			"symbol":"PCR",
