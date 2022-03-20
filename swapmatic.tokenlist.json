@@ -4,7 +4,7 @@
 	"version":{
 		"major":1,
 		"minor":9,
-		"patch":3
+		"patch":4
 	},
 	"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam_200.png",
 	"keywords":[
@@ -918,7 +918,7 @@
 			"logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xeAb9Cfb094db203e6035c2e7268A86DEbeD5BD14.png"
 		},
 		{
-			"address":"0x80D55041E3954405664694899fF9F202c13C0e1c",
+			"address":"0xA3c342c1630BE4a779d0896925787EFFad0569cB",
 			"chainId":137,
 			"name":"Flowerpatch.app SEED",
 			"symbol":"SEED",
